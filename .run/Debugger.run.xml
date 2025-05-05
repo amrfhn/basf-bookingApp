@@ -1,9 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Debugger" type="NodeJSConfigurationType" path-to-js-file="index.js" working-dir="$PROJECT_DIR$/backend">
-    <envs>
-      <env name="NODE_EXTRA_CA_CERTS" value="../.cert/cacert.pem" />
-      <env name="ROOT_PATH" value="/future_of_work" />
-    </envs>
-    <method v="2" />
-  </configuration>
-</component>
