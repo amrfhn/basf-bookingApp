@@ -1,4 +1,0 @@
-GET https://app.roqs.basf.net/future_of_work/api/bookings/init
-X-Gitlab-Token:<Token>
-
-###
