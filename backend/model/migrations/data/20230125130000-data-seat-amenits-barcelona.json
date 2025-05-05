@@ -1,0 +1,646 @@
+[
+    {
+        "floor": "5",
+        "code": "501",
+        "buildingMindsID": "7ecafc25-7e15-4019-886f-f9db8504c9d5",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "502",
+        "buildingMindsID": "1b622237-3b99-41f9-a317-efe7755404ff",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "503",
+        "buildingMindsID": "01c79105-5cc4-488a-8fef-142c0ee4f348",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "504",
+        "buildingMindsID": "4c85a668-66ff-4405-8fdd-b5b5600b2a8a",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "505",
+        "buildingMindsID": "25f6f01d-171a-45d7-97ef-28d9d016c1da",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "506",
+        "buildingMindsID": "3afcc758-e747-4aa2-84c1-385abd87d57f",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "507",
+        "buildingMindsID": "702cb777-24da-4a8d-afd6-bb187a2efeb7",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "508",
+        "buildingMindsID": "564bebea-d008-409d-8416-6a7246bc0d48",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "509",
+        "buildingMindsID": "9e06316f-08a3-45ef-8a47-69e66fcd7acd",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "510",
+        "buildingMindsID": "50919675-cb38-4a27-8bf8-7a3035f2d41b",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "511",
+        "buildingMindsID": "56758732-5487-4d34-a286-ec0a16fdcd11",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "512",
+        "buildingMindsID": "3ca3aa22-8c24-473e-bc4e-18126a873829",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "513",
+        "buildingMindsID": "6bfc102e-7e84-4ade-ad8e-16b29fa83ea2",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "514",
+        "buildingMindsID": "ca73768b-202d-4386-a992-d229915742c5",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "515",
+        "buildingMindsID": "8573e746-7587-4a55-83c6-f0910fd30bfb",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "516",
+        "buildingMindsID": "ed14346d-d65e-4cb2-acf8-f2a3ca28ff13",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "517",
+        "buildingMindsID": "df888806-9a2d-46da-a8b5-58d8bceaecce",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "521",
+        "buildingMindsID": "ecbeac62-ea97-432a-b32b-16463a690190",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "522",
+        "buildingMindsID": "365bcecb-a85e-4011-84f0-1659835e999f",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "523",
+        "buildingMindsID": "863f7d59-9842-4b4b-ba9d-a07c9a88bf36",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "524",
+        "buildingMindsID": "a649ca20-732e-47d1-8235-eeb1c09522dd",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "525",
+        "buildingMindsID": "5c1fad4c-ee15-4988-893c-50a674010e10",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "526",
+        "buildingMindsID": "aab5cbda-c1f3-461c-804a-41cb4604f5a0",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "527",
+        "buildingMindsID": "695d6685-575f-463e-a15b-5ee15b93155a",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "528",
+        "buildingMindsID": "7793150d-6811-4805-b309-baf296c23479",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "529",
+        "buildingMindsID": "0ec6866e-9523-4ae3-92e2-bbe4f624bf68",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "530",
+        "buildingMindsID": "2fc10dc7-313c-4482-b217-e2a28edf39d7",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "531",
+        "buildingMindsID": "ee06e16d-36eb-49a2-8254-691b850f1e96",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "532",
+        "buildingMindsID": "a78bebf4-349e-4837-a339-e0fcd2d17492",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "5",
+        "code": "533",
+        "buildingMindsID": "9162f165-376d-4fbc-84f4-0843bb68ff4e",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "5",
+        "code": "534",
+        "buildingMindsID": "7dcdc6c8-0709-426f-bb83-df1936713b47",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "6",
+        "code": "607",
+        "buildingMindsID": "38aba1c8-e697-464a-8f89-e7dcd7b9c111",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "608",
+        "buildingMindsID": "60dca852-b51c-46ec-aa39-ba94e7038e65",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "609",
+        "buildingMindsID": "5dc876cf-e444-444f-ac79-eba96a04870e",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "610",
+        "buildingMindsID": "62c8b319-8516-43c6-b0da-c155bf3596d9",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "611",
+        "buildingMindsID": "63d6ccb6-e1f0-4a46-b0e0-bd471050f991",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "612",
+        "buildingMindsID": "8d8d7c65-3751-4343-a8f6-9ccac9f79127",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "613",
+        "buildingMindsID": "2dbca06c-4cfc-4813-8da2-7c56081cc66f",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "614",
+        "buildingMindsID": "e5c3768f-26eb-4aab-89fc-6dd47890abe8",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "615",
+        "buildingMindsID": "3a3b36fd-190c-421f-ae34-d8dea6e04785",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "616",
+        "buildingMindsID": "578fe5a3-d2fd-4812-a558-652e3b128d19",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "617",
+        "buildingMindsID": "d3a0ac2c-080f-48d2-b3be-e86c41e8300c",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "618",
+        "buildingMindsID": "79f0b2a1-6f0a-4fc1-bd78-f2b5952b5a1d",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "619",
+        "buildingMindsID": "28a64782-98a8-4055-afe7-0771a85991f7",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "620",
+        "buildingMindsID": "9462cec3-d7bc-4cbb-8f97-194412230923",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "621",
+        "buildingMindsID": "f7ef1ed8-94d7-40f5-b789-83ffcbf697e4",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "622",
+        "buildingMindsID": "0df6d6d7-6832-4b65-85c0-209b9535d8ca",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "623",
+        "buildingMindsID": "ccef5bab-67c9-4ea5-a64b-27213dcdd209",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "624",
+        "buildingMindsID": "aa7ac9a8-4c10-4d73-81a3-401cbb1fad50",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "625",
+        "buildingMindsID": "6e886891-2f26-45b9-ab14-6c959d61ec3a",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "626",
+        "buildingMindsID": "68d2ad19-69e6-4868-9ee4-6c36d4b2e62c",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "627",
+        "buildingMindsID": "9d49600d-8c04-4eb6-b755-b472990382ab",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "628",
+        "buildingMindsID": "7917fe1b-f751-42cb-9547-7983e98c4c89",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "629",
+        "buildingMindsID": "8762f486-1daa-4b94-87d2-919d170e3e9e",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "630",
+        "buildingMindsID": "5a7cafdc-2664-4f0d-b0da-07f060314cea",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "631",
+        "buildingMindsID": "78932652-66c6-4bfa-817f-ec8ecd18f2b6",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "632",
+        "buildingMindsID": "000d720d-ca63-4be6-aecc-7563831d4e4c",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "633",
+        "buildingMindsID": "1d94714a-ae6a-44cd-af72-cb9adebf3942",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "634",
+        "buildingMindsID": "63195fcd-bef6-4f8d-b6c6-cc680ba56e38",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "635",
+        "buildingMindsID": "6dc0368b-883e-45ba-8307-5ed2235fdf59",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "636",
+        "buildingMindsID": "4225e5cc-82ae-4ee8-a8da-632eb57188ac",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "637",
+        "buildingMindsID": "15625c80-68e1-4f2e-af05-e2abcc0e4516",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "638",
+        "buildingMindsID": "b42ce100-a830-4750-8d4c-2c2c97d0e683",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "639",
+        "buildingMindsID": "9d720c47-3875-40f5-bf7b-745f2af80135",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "640",
+        "buildingMindsID": "666c24bc-6c99-4f75-9986-1f1648c57b48",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "641",
+        "buildingMindsID": "e6c274c1-6dc4-43c6-b427-fade02a9816a",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "642",
+        "buildingMindsID": "b76cce27-103a-45d8-bca0-35487d105543",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "6",
+        "code": "643",
+        "buildingMindsID": "16c2b5a1-fc15-4a14-b58d-f20032b17af9",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "701",
+        "buildingMindsID": "354cceb4-06cc-4d6d-a380-0fe22f1d9702",
+        "available": "X",
+        "monitors": "2"
+    },
+    {
+        "floor": "7",
+        "code": "702",
+        "buildingMindsID": "fc3cddad-9ee1-4aa5-b359-9940cc785e89",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "703",
+        "buildingMindsID": "f86b8c32-e2a9-4b24-83c2-f08195ff1b69",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "704",
+        "buildingMindsID": "ba6f2824-fd04-4ff6-a958-d34eab599a12",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "705",
+        "buildingMindsID": "aea56c4c-43e8-4eb2-9df5-55a41be3091e",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "706",
+        "buildingMindsID": "07dd1005-348f-4e6f-92bd-975d467c1f05",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "707",
+        "buildingMindsID": "a012ea35-84d5-45b2-8972-7d8d2fdc975e",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "708",
+        "buildingMindsID": "d401420e-45b2-4866-8ac0-f620e4fcca46",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "709",
+        "buildingMindsID": "42069c77-8459-4e16-a524-b1d892b2bde4",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "710",
+        "buildingMindsID": "37db07fa-9b29-4e7a-bdf1-1d3be2bab840",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "711",
+        "buildingMindsID": "3d8f1e74-ee35-4319-9cbc-64de41f9174d",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "712",
+        "buildingMindsID": "7eb64f8c-a474-4369-b912-6232f3d64703",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "713",
+        "buildingMindsID": "b80f1bcf-7f0a-47d9-9c5d-cbea3356db0b",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "714",
+        "buildingMindsID": "b1fb9d57-256c-415c-8e71-f8fe5b1ce2dc",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "715",
+        "buildingMindsID": "6f7ee5fb-ddb7-4b5b-9cd1-5dacce6e47ee",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "716",
+        "buildingMindsID": "8329d049-f7f4-482c-8751-b2255ace9b3c",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "717",
+        "buildingMindsID": "57ce7cec-113f-4970-a13e-6af3a316189f",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "718",
+        "buildingMindsID": "16d02ce3-c177-416e-84e2-53acab1bd7a2",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "719",
+        "buildingMindsID": "18200120-5039-4ed3-bea9-368d4f26b702",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "720",
+        "buildingMindsID": "c93bb581-dc72-4c4d-9523-e810af9e5abe",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "721",
+        "buildingMindsID": "089b6f6c-29e6-4341-8894-14af71658b4a",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "722",
+        "buildingMindsID": "c2203ad7-58c2-45a7-b98f-ed5bc5b9ef64",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "723",
+        "buildingMindsID": "a17cc87c-13aa-4fd3-95d3-7f80445ea03b",
+        "available": "X",
+        "monitors": "1"
+    },
+    {
+        "floor": "7",
+        "code": "724",
+        "buildingMindsID": "946b4208-4dcc-478b-99c7-d300705ffbba",
+        "available": "X",
+        "monitors": "1"
+    }
+]

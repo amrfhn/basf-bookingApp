@@ -1,0 +1,142 @@
+{
+  "back": "Volver",
+  "floor": "Piso",
+  "area": "Área",
+  "app": {
+    "title": "Future of Work"
+  },
+  "about": {
+    "title": "Sobre nosotros",
+    "text": "La herramienta de Future of work te permite planificar tus asistencias a la oficina de forma muy fácil e intuitiva. Indicando fecha y lugar dentro de un período presente o futuro podrás reservar un asiento. Además contempla el concepto de \"landing zone\" para que áreas afines estén trabajando en un entorno cercano. Se entiende que no todos los lugares tienen las mismas características y de contar con la información se permite buscar asientos según estas, por ejemplo cantidad de monitores.\nCualquier colaborador puede agendar visitas dentro de la organización para las compañías incluidas en la herramienta.\nComo colaborador podrás visualizar tanto tus reservas como las de tu equipo así como quienes están sentados a tu lado.\nEn la sección de reportes podrás acceder a algunas métricas de uso de los espacios o participación del equipo, así como ubicar a los brigadistas del piso.\nSentite libre de darnos tu feedback :)",
+    "contact": "Sentite libre de dejarnos tu feedback o contactarnos a bsa-demands-gtu@basf.com",
+    "link": "Para poder reservar hace click en ",
+    "introFow": "Para saber más sobre la aplicación Future of Work, haga clic en ",
+    "knowledgeBase": "Base de conocimientos",
+    "supportEmail": "dbt-fow-support-team@basf.com"
+  },
+  "navbar": {
+    "index": "Inicio",
+    "users": "Users",
+    "components": "Componentes",
+    "login": "Ingresar",
+    "lang": {
+      "en": "Ingles",
+      "es": "Español",
+      "de": "Aleman",
+      "pt": "Portugués",
+      "kr": "Coreano"
+    }
+  },
+  "page": {
+    "findASeat": "Encuentra tu asiento",
+    "myReservations": "Mis Reservas"
+  },
+  "book": {
+    "findASeat": "Encuentra tu asiento",
+    "siteLabel": "Sitio",
+    "sitetitle": "Seleccione un sitio",
+    "buildingLabel": "Edificio",
+    "buildingtitle": "Seleccione un edificio",
+    "from": "Desde:",
+    "to": "Hasta:",
+    "floor": "Piso:",
+    "seat": "Asiento:",
+    "forMe": "Para mí",
+    "preBooks": "Para mi equipo",
+    "onBehalfOf": "En nombre de",
+    "selectFloor": "Seleccionar piso",
+    "chooseSeat": "Elegir un asiento",
+    "viewFloorPlan": "Ver el plano del piso",
+    "booking": "Reservar",
+    "quickBook": "Libro rápido",
+    "randomSeat": "Asiento aleatorio"
+  },
+  "reservation": {
+    "myReservation": "Mis Reservas",
+    "today": "Hoy:",
+    "nextBookings": "Próximas reservas:",
+    "teamBookings": "Reservas de mi equipo:",
+    "preBookings": "Pre-bookings:",
+    "cancel": "Cancelar Reserva",
+    "table": {
+      "booksite": "Sitio",
+      "day": "Día",
+      "floor": "Piso",
+      "seat": "Asiento",
+      "forMe": "Para mí",
+      "onBehalfOf": "A nombre de",
+      "selection": "Selección",
+      "noBookings": "No hay reservas registradas",
+      "area": "Area",
+      "teamMember": "Miembro del equipo",
+      "parking": "Estacionamiento",
+      "parkingSelection": "Selección de cochera"
+    }
+  },
+  "modal": {
+    "cancelationTitle": "Confirma tu cancelación",
+    "confirmTitle": "Confirma tu reserva",
+    "selectedBook": "tu selección fue:",
+    "preBooksWarn": "Recuerde que los miembros del equipo deben reservar los asientos, de lo contrario, la pre-reserva se cancelará 24 horas antes",
+    "floor": "Piso:",
+    "site": "Sitio: ",
+    "area": "Area: ",
+    "seat": "Asiento: ",
+    "date": "Fecha: ",
+    "amenities": {
+      "description": "Equipamiento: "
+    },
+    "thankMsg": "Gracias por contribuir con el uso responsable de los escritorios!",
+    "cancelButton": "Cancelar",
+    "confirmButton": "Confirmar",
+    "thirdParty": "Información de terceros",
+    "internal": "Interno",
+    "external": "Externo",
+    "bookSuccess": "Su reserva se realizó con éxito",
+    "preBookSuccess": "Su pre-reserva se realizó con éxito",
+    "noUserError": "El usuario no puede estar vacío",
+    "findUser": "Encontrar Usuario"
+  },
+  "alert": {
+    "title": "Alerta!",
+    "incompleteFieldsMessage": "Debes completar todos los datos para buscar tu asiento.",
+    "seatTakenMessage": "Este asiento ya fue reservado, por favor seleccionar otro asiento u otro período.",
+    "alreadyHasBooking": "Ya tienes una reserva para tí realizada"
+  },
+  "homeTable": {
+    "title": "Top 5 de asientos disponibles",
+    "bookView": "Reserva tu asiento",
+    "floor": "Piso",
+    "seats": "Asientos"
+  },
+  "mainpage": {
+    "feedback": "Danos tu Feedback!",
+    "book": "Reserva tu lugar",
+    "feedbackModal": {
+      "title": "Feedback",
+      "send": "Enviar",
+      "fbcomment": "Seguimos construyendo la mejor forma de trabajar. Por eso, tu feedback constante es imprescindible. ¡Hacé tus comentarios aquí!",
+      "topic": {
+        "site": "Seleccione el sitio para su feedback",
+        "seat": "Quise ir a la oficina y no encontre asiento disponible",
+        "comment": "Quiero enviar un comentario",
+        "error": "Quiero reportar un error"
+      },
+      "type": {
+        "anonymous": "Anónimo"
+      },
+      "errors": {
+        "emptyComment": "El comentario no puede ser vacío",
+        "onDates": "Fecha Hasta debe ser mayor a la fecha Desde"
+      },
+      "uploadFile": "Cargar archivo..."
+    },
+    "bookSuccess": "Su reserva se realizó con éxito",
+    "preBookSuccess": "Su pre-reserva se realizó con éxito",
+    "wantBookParkingLot": "Quiero que mi reserva incluya una cochera",
+    "parkingLot": "Plaza de estacionamiento",
+    "seatOwnerParkingLot": "Esta reserva tiene asignada la cochera {parkingLot} en el piso {parkingFloor}",
+    "NoAvailableParkingLot": "No hay cocheras disponibles para este día. Contactar al equipo de Facility Management",
+    "NotAuthorizedParkingLot": "Usted no está autorizado para reservar cocheras"
+  }
+}

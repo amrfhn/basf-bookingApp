@@ -1,0 +1,409 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="712px"
+     height="639px" viewBox="-0.5 -0.5 712 639"
+     content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-11-08T08:41:19.472Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 Edg/95.0.1020.44&quot; etag=&quot;L4_At5e9KAVj46peErG8&quot; version=&quot;15.5.4&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;IgvMVVhuTBkReWCip22C&quot; name=&quot;4O&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="277" width="710" height="360" fill="#b3b3b3" stroke="#b3b3b3"/>
+        <rect x="200" y="347.28" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-1" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="220" y="375" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">1
+            </text>
+
+        </g>
+        <rect x="600" y="378.44" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-25" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="620" y="406" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">25
+            </text>
+
+        </g>
+        <rect x="650" y="378.44" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-26" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="670" y="406" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">26
+            </text>
+
+        </g>
+        <rect x="200" y="297.72" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-2" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="220" y="325" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">2
+            </text>
+
+        </g>
+        <rect x="190" y="566" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-8" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="210" y="594" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">8
+            </text>
+
+        </g>
+        <rect x="22.5" y="566" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-4" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="43" y="594" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">4
+            </text>
+
+        </g>
+        <rect x="22.5" y="517" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-3" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="43" y="545" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">3
+            </text>
+
+        </g>
+        <rect x="112.5" y="517" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-5" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="133" y="545" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">5
+            </text>
+
+        </g>
+        <rect x="190" y="517" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-7" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="210" y="545" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">7
+            </text>
+
+        </g>
+        <rect x="112.5" y="566" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-6" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="133" y="594" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">6
+            </text>
+
+        </g>
+        <rect x="400" y="432" width="100" height="50" rx="7.5" ry="7.5" fill="#d9d9d9" stroke="#d9d9d9d9"
+        />
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="450" y="461" fill="#000000" font-family="Helvetica" font-size="12px"
+                  text-anchor="middle">4O
+            </text>
+
+        </g>
+        <rect x="5" y="287" width="165" height="180" rx="24.75" ry="24.75" fill="#9e9e9e" stroke="#9e9e9e"
+        />
+        <rect x="310.02" y="230.88" width="130" height="222.26" rx="19.5" ry="19.5" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-90,375.02,342.01)"/>
+        <rect x="120" y="407" width="60" height="20" rx="3" ry="3" fill="#b3b3b3" stroke="#b3b3b3"
+              transform="rotate(-90,150,417)"/>
+        <path d="M 145 407 L 155 417 L 145 427 Z" fill="#e6e6e6" stroke="#e6e6e6" stroke-miterlimit="10"
+        />
+        <rect x="280.32" y="517" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-9" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="300" y="545" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">9
+            </text>
+
+        </g>
+        <rect x="280.32" y="567" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-10" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="300" y="595" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">10
+            </text>
+
+        </g>
+        <rect x="22.5" y="569.5" width="130" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-90,87.5,572)"/>
+        <rect x="350" y="517" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-11" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="370" y="545" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">11
+            </text>
+
+        </g>
+        <rect x="351.16" y="567" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-12" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="371" y="595" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">12
+            </text>
+
+        </g>
+        <rect x="391.57" y="-41.94" width="276.88" height="360" fill="#b3b3b3" stroke="#b3b3b3"
+              transform="rotate(90,530.01,138.06)"/>
+        <rect x="590" y="432" width="120" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,650,434.5)"/>
+        <rect x="600" y="297.72" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-27" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="620" y="325" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">27
+            </text>
+
+        </g>
+        <rect x="650" y="297.72" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-28" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="670" y="325" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">28
+            </text>
+
+        </g>
+        <rect x="367.5" y="217" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-38" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="388" y="245" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">38
+            </text>
+
+        </g>
+        <rect x="416.72" y="217" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-37" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="437" y="245" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">37
+            </text>
+
+        </g>
+        <rect x="350" y="197" width="140" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,420,199.5)"/>
+        <rect x="367.5" y="147" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-40" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="388" y="175" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">40
+            </text>
+
+        </g>
+        <rect x="416.72" y="147" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-39" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="437" y="175" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">39
+            </text>
+
+        </g>
+        <rect x="394.38" y="77" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-42" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="414" y="105" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">42
+            </text>
+
+        </g>
+        <rect x="600" y="147" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-31" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="620" y="175" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">31
+            </text>
+
+        </g>
+        <rect x="650" y="147" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-32" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="670" y="175" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">32
+            </text>
+
+        </g>
+        <rect x="600" y="77" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-33" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="620" y="105" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">33
+            </text>
+
+        </g>
+        <rect x="650" y="77" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-34" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="670" y="105" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">34
+            </text>
+
+        </g>
+        <rect x="200" y="569.5" width="130" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-90,265,572)"/>
+        <rect x="600" y="217" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-29" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="620" y="245" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">29
+            </text>
+
+        </g>
+        <rect x="650" y="217" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-30" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="670" y="245" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">30
+            </text>
+
+        </g>
+        <rect x="600" y="27" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-35" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="620" y="55" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">35
+            </text>
+
+        </g>
+        <rect x="650" y="27" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-36" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="670" y="55" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">36
+            </text>
+
+        </g>
+        <rect x="394.38" y="27" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-41" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="414" y="55" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">41
+            </text>
+
+        </g>
+        <rect x="380" y="287" width="90.78" height="110" rx="13.62" ry="13.62" fill="#d9d9d9" stroke="#d9d9d9d9"
+        />
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="425" y="346" fill="#000000" font-family="Helvetica" font-size="12px"
+                  text-anchor="middle">WC
+            </text>
+
+        </g>
+        <rect x="270" y="569.5" width="130" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-90,335,572)"/>
+        <rect x="400" y="517" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-13" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="420" y="545" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">13
+            </text>
+
+        </g>
+        <rect x="400" y="567" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-14" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="420" y="595" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">14
+            </text>
+
+        </g>
+        <rect x="394.38" y="569.5" width="130" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-90,459.38,572)"/>
+        <rect x="590" y="360.12" width="120" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,650,362.62)"/>
+        <rect x="590" y="277" width="120" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,650,279.5)"/>
+        <rect x="590" y="197" width="120" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,650,199.5)"/>
+        <rect x="350" y="127.13" width="140" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,420,129.63)"/>
+        <rect x="280.32" y="287" width="90.78" height="110" rx="13.62" ry="13.62" fill="#d9d9d9" stroke="#d9d9d9d9"
+        />
+        <image x="301.15" y="311.5" width="48.12" height="48.12"
+               xlink:href="https://cdn2.iconfinder.com/data/icons/barista/256/barista-icons_americano-128.png"
+               preserveAspectRatio="none"/>
+        <rect x="512.5" y="-3" width="45" height="70" rx="6.75" ry="6.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(90,535,32)"/>
+        <rect x="510" y="27" width="50" height="20" rx="3" ry="3" fill="#b3b3b3" stroke="#b3b3b3"/>
+        <path d="M 530 27 L 540 37 L 530 47 Z" fill="#e6e6e6" stroke="#e6e6e6" stroke-miterlimit="10"
+              transform="rotate(90,535,37)"/>
+        <rect x="479.38" y="517" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-15" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="499" y="545" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">15
+            </text>
+
+        </g>
+        <rect x="479.38" y="567" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-16" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="499" y="595" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">16
+            </text>
+
+        </g>
+        <rect x="530" y="517" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-17" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="550" y="545" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">17
+            </text>
+
+        </g>
+        <rect x="530" y="566" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-18" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="550" y="594" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">18
+            </text>
+
+        </g>
+        <rect x="600" y="517" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-19" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="620" y="545" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">19
+            </text>
+
+        </g>
+        <rect x="650" y="517" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-21" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="670" y="545" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">21
+            </text>
+
+        </g>
+        <rect x="600" y="566" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-20" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="620" y="594" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">20
+            </text>
+
+        </g>
+        <rect x="650" y="566" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-22" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="670" y="594" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">22
+            </text>
+
+        </g>
+        <rect x="600" y="449.14" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-23" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="620" y="477" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">23
+            </text>
+
+        </g>
+        <rect x="650" y="448.14" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+              id="seat-24" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="670" y="476" fill="#FFFFFF" font-family="Helvetica" font-size="25px"
+                  text-anchor="middle">24
+            </text>
+
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+           target="_blank">
+            <text pointer-events="none" text-anchor="middle" font-size="10px" x="50%" y="100%">Viewer does not support
+                full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="708px" height="435px" viewBox="-0.5 -0.5 708 435">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%" id="mx-gradient-f5f5f5-1-b3b3b3-1-s-0">
+            <stop offset="0%" style="stop-color: rgb(245, 245, 245); stop-opacity: 1;"/>
+            <stop offset="100%" style="stop-color: rgb(179, 179, 179); stop-opacity: 1;"/>
+        </linearGradient>
+    </defs>
+    <g>
+        <rect x="13" y="260" width="280" height="140" fill="#cccccc" stroke="#000000" transform="rotate(-15,153,330)"
+              class="area" id="area-sur" cursor="pointer"/>
+        <g transform="translate(-0.5 -0.5)rotate(-15 153 330)">
+            <text x="153" y="334" fill="#000000" font-family="Helvetica" font-size="15px" text-anchor="middle" pointer-events="none">
+                Piso 5 ALA SUR
+            </text>
+        </g>
+        <rect x="413" y="260" width="280" height="140" fill="#cccccc" stroke="#000000" transform="rotate(15,553,330)"
+              class="area" id="area-norte" cursor="pointer"/>
+        <g transform="translate(-0.5 -0.5)rotate(15 553 330)">
+            <text x="553" y="334" fill="#000000" font-family="Helvetica" font-size="15px" text-anchor="middle" pointer-events="none">
+                Piso 5 ALA NORTE
+            </text>
+        </g>
+        <rect x="273" y="0" width="160" height="160" fill="#cccccc" stroke="#000000" class="area" id="area-poniente" cursor="pointer"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text x="353" y="84" fill="#000000" font-family="Helvetica" font-size="15px" text-anchor="middle" pointer-events="none">
+                Piso 5 ALA PONIENTE
+            </text>
+        </g>
+        <rect x="373" y="170" width="60" height="50" fill="#999999" stroke="#000000"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text x="403" y="198" fill="#000000" font-family="Helvetica" font-size="9px" text-anchor="middle" pointer-events="none">
+                Ascensor
+            </text>
+        </g>
+        <rect x="432" y="262" width="28" height="33" rx="4.2" ry="4.2" fill="#999999" stroke="none"
+              transform="rotate(-705,446,278.5)" pointer-events="none"/>
+        <rect x="436" y="266" width="15.26" height="24.45" rx="2.29" ry="2.29" fill="#b3b3b3" stroke="none"
+              transform="rotate(-705,443.63,278.23)" pointer-events="none"/>
+        <path d="M 438 271 L 448.79 277.92 L 438 284.84 Z" fill="#e6e6e6" stroke="none"
+              transform="rotate(-525,443.39,277.92)" pointer-events="none"/>
+        <rect x="421" y="299" width="28" height="33" rx="4.2" ry="4.2" fill="#999999" stroke="none"
+              transform="rotate(-885,435,315.5)" pointer-events="none"/>
+        <rect x="430" y="304" width="15.26" height="24.45" rx="2.29" ry="2.29" fill="#b3b3b3" stroke="none"
+              transform="rotate(-885,437.63,316.23)" pointer-events="none"/>
+        <path d="M 432 309 L 442.79 315.92 L 432 322.84 Z" fill="#e6e6e6" stroke="none"
+              transform="rotate(-705,437.39,315.92)" pointer-events="none"/>
+        <rect x="246" y="309" width="28" height="33" rx="4.2" ry="4.2" fill="#999999" stroke="none"
+              transform="rotate(-555,260,325.5)" pointer-events="none"/>
+        <rect x="254" y="312" width="15.26" height="24.45" rx="2.29" ry="2.29" fill="#b3b3b3" stroke="none"
+              transform="rotate(-555,261.63,324.23)" pointer-events="none"/>
+        <path d="M 257 317 L 267.79 323.92 L 257 330.84 Z" fill="#e6e6e6" stroke="none"
+              transform="rotate(-375,262.39,323.92)" pointer-events="none"/>
+        <rect x="237" y="272" width="28" height="33" rx="4.2" ry="4.2" fill="#999999" stroke="none"
+              transform="rotate(-735,251,288.5)" pointer-events="none"/>
+        <rect x="241" y="277" width="15.26" height="24.45" rx="2.29" ry="2.29" fill="#b3b3b3" stroke="none"
+              transform="rotate(-735,248.63,289.23)" pointer-events="none"/>
+        <path d="M 243 282 L 253.79 288.92 L 243 295.84 Z" fill="#e6e6e6" stroke="none"
+              transform="rotate(-555,248.39,288.92)" pointer-events="none"/>
+        <rect x="358.5" y="121" width="28" height="33" rx="4.2" ry="4.2" fill="#999999" stroke="none"
+              transform="rotate(-630,372.5,137.5)" pointer-events="none"/>
+        <rect x="364.5" y="123" width="15.26" height="24.45" rx="2.29" ry="2.29" fill="#b3b3b3" stroke="none"
+              transform="rotate(-630,372.13,135.23)" pointer-events="none"/>
+        <path d="M 366.5 128 L 377.29 134.92 L 366.5 141.84 Z" fill="#e6e6e6" stroke="none"
+              transform="rotate(-450,371.89,134.92)" pointer-events="none"/>
+        <rect x="319.5" y="120" width="28" height="33" rx="4.2" ry="4.2" fill="#999999" stroke="none"
+              transform="rotate(-810,333.5,136.5)" pointer-events="none"/>
+        <rect x="326.5" y="127" width="15.26" height="24.45" rx="2.29" ry="2.29" fill="#b3b3b3" stroke="none"
+              transform="rotate(-810,334.13,139.23)" pointer-events="none"/>
+        <path d="M 328.5 132 L 339.29 138.92 L 328.5 145.84 Z" fill="#e6e6e6" stroke="none"
+              transform="rotate(-630,333.89,138.92)" pointer-events="none"/>
+        <rect x="273" y="170" width="60" height="50" fill="#999999" stroke="#000000"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text x="303" y="198" fill="#000000" font-family="Helvetica" font-size="9px" text-anchor="middle">WC</text>
+        </g>
+        <rect x="313" y="240" width="80" height="100" fill="#ffffff" stroke="none"/>
+        <rect x="313" y="240" width="80" height="100" rx="12" ry="12" fill="#999999" stroke="#999999"
+        />
+        <path d="M 335.82 280.32 Q 339.88 283.92 343.94 280.32 Q 348.01 276.72 352.07 280.32 L 352.07 286.32 Q 348.01 282.72 343.94 286.32 Q 339.88 289.92 335.82 286.32 L 335.82 280.32 Z"
+              fill="url(#mx-gradient-f5f5f5-1-b3b3b3-1-s-0)" stroke="#666666" stroke-miterlimit="10"
+              transform="rotate(90,343.94,283.32)"/>
+        <path d="M 346.44 273.69 Q 354.1 277.29 361.76 273.69 Q 369.41 270.09 377.07 273.69 L 377.07 279.69 Q 369.41 276.09 361.76 279.69 Q 354.1 283.29 346.44 279.69 L 346.44 273.69 Z"
+              fill="url(#mx-gradient-f5f5f5-1-b3b3b3-1-s-0)" stroke="#666666" stroke-miterlimit="10"
+              transform="rotate(90,361.76,276.69)"/>
+        <path d="M 339.57 288.32 Q 363.32 288.32 363.32 306.76 Q 363.32 325.2 339.57 325.2 Z" fill="#999999"
+              stroke="#000000" stroke-miterlimit="10" transform="rotate(90,351.44,306.76)"/>
+        <path d="M 346.44 297.19 Q 356.44 297.19 356.44 312.19 Q 356.44 327.19 346.44 327.19 Z" fill="#333333"
+              stroke="#000000" stroke-miterlimit="10" transform="rotate(90,351.44,312.19)"/>
+    </g>
+</svg>

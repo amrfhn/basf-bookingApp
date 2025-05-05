@@ -1,0 +1,302 @@
+[
+  {
+    "floor": 12,
+    "area": "a1",
+    "seat": 1,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "a1",
+    "seat": 2,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "a2",
+    "seat": 73,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "a2",
+    "seat": 74,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "a2",
+    "seat": 75,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "a2",
+    "seat": 76,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "b2",
+    "seat": 81,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "b2",
+    "seat": 82,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "b1",
+    "seat": 146,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "b1",
+    "seat": 147,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "b1",
+    "seat": 148,
+    "status": "VIP"
+  },
+  {
+    "floor": 12,
+    "area": "b1",
+    "seat": 149,
+    "status": "VIP"
+  },
+  {
+    "floor": 14,
+    "area": "a2",
+    "seat": 62,
+    "status": "VIP"
+  },
+  {
+    "floor": 14,
+    "area": "a2",
+    "seat": 63,
+    "status": "VIP"
+  },
+  {
+    "floor": 14,
+    "area": "a2",
+    "seat": 64,
+    "status": "VIP"
+  },
+  {
+    "floor": 14,
+    "area": "a2",
+    "seat": 65,
+    "status": "VIP"
+  },
+  {
+    "floor": 14,
+    "area": "b2",
+    "seat": 66,
+    "status": "VIP"
+  },
+  {
+    "floor": 14,
+    "area": "b2",
+    "seat": 67,
+    "status": "VIP"
+  },
+  {
+    "floor": 14,
+    "area": "b1",
+    "seat": 142,
+    "status": "VIP"
+  },
+  {
+    "floor": 14,
+    "area": "b1",
+    "seat": 143,
+    "status": "VIP"
+  },
+  {
+    "floor": 14,
+    "area": "a1",
+    "seat": 174,
+    "status": "VIP"
+  },
+  {
+    "floor": 14,
+    "area": "a1",
+    "seat": 175,
+    "status": "VIP"
+  },
+  {
+    "floor": 17,
+    "area": "a2",
+    "seat": 1,
+    "status": "VIP"
+  },
+  {
+    "floor": 17,
+    "area": "a2",
+    "seat": 2,
+    "status": "VIP"
+  },
+  {
+    "floor": 17,
+    "area": "a2",
+    "seat": 3,
+    "status": "VIP"
+  },
+  {
+    "floor": 17,
+    "area": "a2",
+    "seat": 4,
+    "status": "VIP"
+  },
+  {
+    "floor": 17,
+    "area": "b1",
+    "seat": 30,
+    "status": "VIP"
+  },
+  {
+    "floor": 17,
+    "area": "b1",
+    "seat": 31,
+    "status": "VIP"
+  },
+  {
+    "floor": 17,
+    "area": "b1",
+    "seat": 40,
+    "status": "VIP"
+  },
+  {
+    "floor": 17,
+    "area": "b1",
+    "seat": 41,
+    "status": "VIP"
+  },
+  {
+    "floor": 17,
+    "area": "b1",
+    "seat": 69,
+    "status": "VIP"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 97,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 98,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 99,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 100,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 101,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 102,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 103,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 104,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 105,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 106,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 107,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 108,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 109,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 110,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 111,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 112,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 113,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 114,
+    "status": "JURIDICO"
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 115,
+    "status": "JURIDICO"
+  }
+]

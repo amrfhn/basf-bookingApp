@@ -1,0 +1,65 @@
+{
+  "name": "future_of_work-mobile",
+  "version": "1.0.0-snapshot",
+  "author": "bsa-gtu",
+  "license": "ISC",
+  "description": "This will be used to book seats at the office",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.roqs.basf.net:bsa-gtu/future-of-work.git"
+  },
+  "keywords": [
+    "nodejs",
+    "nuxt",
+    "vue"
+  ],
+  "scripts": {
+    "local": "SET BACKEND_URL=http://localhost:9000/future_of_work/& nuxt --port 7000 --mode development",
+    "dev": "SET BACKEND_URL=https://app-dev.roqs.basf.net/future_of_work/& nuxt --port 7000 --mode development",
+    "start": "nuxt start",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "audit": "npm audit --registry=https://registry.npmjs.com/",
+    "test": "jest",
+    "update": "npx npm-check-updates -u && npm i -s",
+    "lint:js": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "registry": "npm config set registry https://nexus.roqs.basf.net/repository/npm/",
+    "lint": "npm run lint:js"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "5.13.6",
+    "basf-gtu-utils": "0.6.6",
+    "buffer": "^6.0.3",
+    "html-loader": "^1.3.2",
+    "moment": "2.29.1",
+    "nuxt": "^2.17.2",
+    "nuxt-i18n": "6.28.1",
+    "vue-cookies": "1.7.4",
+    "vuejs-datepicker": "^1.6.2"
+  },
+  "devDependencies": {
+    "@intlify/eslint-plugin-vue-i18n": "0.15.0",
+    "@intlify/vue-i18n-loader": "3.2.0",
+    "@nuxt/types": "2.15.8",
+    "@nuxtjs/eslint-config": "6.0.1",
+    "@nuxtjs/eslint-module": "3.0.2",
+    "@nuxtjs/pwa": "3.3.5",
+    "@vue/babel-preset-app": "4.5.14",
+    "@vue/test-utils": "1.2.2",
+    "babel-core": "7.0.0-bridge.0",
+    "babel-eslint": "10.1.0",
+    "babel-jest": "27.3.0",
+    "babel-preset-env": "1.7.0",
+    "core-js": "3.18.3",
+    "eslint": "7.32.0",
+    "eslint-plugin-nuxt": "2.0.0",
+    "jest": "27.3.0",
+    "postcss": "^8.1.9",
+    "postcss-import": "12.0.1",
+    "sass": "^1.49.4",
+    "sass-loader": "10.2.1",
+    "vue-jest": "3.0.7",
+    "webpack": "^4.46.0"
+  }
+}

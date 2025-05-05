@@ -1,0 +1,24 @@
+{
+  "root": true,
+  "parser": "vue-eslint-parser",
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "env": {
+    "node": true
+  },
+  "extends": [
+    "@nuxtjs",
+    "plugin:nuxt/recommended",
+    "plugin:@intlify/vue-i18n/recommended"
+  ],
+  "plugins": [],
+  "rules": {
+    "no-console": "off",
+    "@intlify/vue-i18n/no-dynamic-keys": "error",
+    "@intlify/vue-i18n/no-unused-keys": "error"
+  },
+  "globals": {
+    "$get": true
+  }
+}

@@ -1,0 +1,29 @@
+[
+  {
+    "hoods": [
+      "Piso 1",
+      "Piso 2",
+      "Piso 3"
+    ]
+  },
+  {
+    "hoodOrgCodes": {
+      "Piso 1":["GBW/BNE-N1","GBW/BNE-N","SA/TGN","GP/SH","GBW/BNO-CN","GBW/BNF-NC","GBW/BNF-N","GBW/BNB-AN","GDA/BD","GBC/GX-S5","GBW/BND-RN","GBW/BNK-CN","GBW/BNU-PN","GBW/BNU-N"],
+      "Piso 2":["S-EM/NM","S-EM/NH","S-EM/N","S-EM/NP","S-CP/SN","S-CI/BC","S-CM/SN","SA/ND","SA/CAS","GBW/PBI-NC","SA/N","S-ED/N","SAE","CL/OSC","G-ENP/SL","G-ENP/LA","G-ENA/SL","G-EVO/G","G-EVG/GS","S-EC/RN","GBW/PNH-NB","S-APS/NCC","S-APS/N"],
+      "Piso 3":["S-APS/NCC","APD/TA","S-APS/NM","S-APS/N","APD/TS","S-APS/NCE1","S-APS/NCE","S-APS/NCM2","S-APS/NL","S-APS/NCS","S-APS/NCM","S-APS/NCO"]
+    }
+  },
+  {
+    "seatHoods": {
+      "Piso 1": {
+        "1": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60]
+      },
+      "Piso 2": {
+        "2": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48]
+      },
+      "Piso 3": {
+        "3": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25]
+      }
+    }
+  }
+]

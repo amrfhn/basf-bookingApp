@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="712px"
+     height="657px" viewBox="-0.5 -0.5 712 657"
+     content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-10-18T06:54:45.739Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36 Edg/94.0.992.50&quot; etag=&quot;RynLGmF5NTjNxozsWp0G&quot; version=&quot;15.5.4&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;w38Si7dH0L28DhRAsL3H&quot; name=&quot;Ground Floor _O&quot;&gt;5Vtdk5o6GP41XMqQBAK53HVXO9Pp9ozb04+rDkeywikST4xV++sbJCiY7KinRmldLlYeIpLned+8H1EH9aerIY9n6TuW0NyBXrJy0IMDIYhwIP+VyLpCgpBUwIRniRq0A56zH1SBnkIXWULnrYGCsVxkszY4ZkVBx6KFxZyzZXvYC8vbnzqLJ1QDnsdxrqOfskSkFRrBcIe/odkkrT8ZYDW/aVwPVjOZp3HClg0IPTqozxkT1avpqk/zkryal9GHKaLJ012Mvn7+MRp+WMT/rnvVzQanvGU7BU4Lcd5bw+rW3+N8ofgaqcmKdc0gZ4sioeVdPAfdL9NM0OdZPC6vLqXNSCwV01yeAflywuMkk4/ZZznjEitYIQfev2R5XkMORPebQ+Jzwdk3arpy5JwVN98pF3TVUFxxMKRsSgVfyyHqas8PlJ7KoCNfnS935hHW1ps2TANhBcbKJCfbm+9oly8U86cI7GsyOBDnoiSOyelDPBEbSpqY9JiaNfzfglUDkB+URxPyXiqtdthHypO4iFuDdnrXYPkpvfnGn+/kAAhnq+Y7qkcaboxDXh7kTD4M9N7XDymJMD37P3wf0Qa+an7gsPlp9vRAqkO3wS1uzdLAnqWRSLc0QAyWZs/QAoOh/Qrfe5ySx/Iw6bC9Ys+v/aDt14GB7TqaNdkGvjW68dXp5kzEImOFhHvEs2rt2Hfr+SkJQsPSSkIXGURAXrTFz64DOkmHS0a5hjx21cHYjcKWOAGALkaaPpAgNzQJZG1R8k3R73peAiK7buK1gwLGvr5M+YagYMs5fKLRf17+H3F5mPjfXikTAFU6yHlW541xg82fRVWgR9oLF9IXLpMm1iJHADRR0K2Lgg3p02VF0RcqcOuihNcWBeuecsXoYTWIB8T12yEcRS4AOv/ArVeLpgShNQn0LsKvSWAjvbIqTOB6oK0MllmUHtgDg2dAa7Kgw7IInsXFpDz7n5rs2/7pK5otUcJjRTH1euyJEnZpubp0shvVJd61kl0c3RD9AHaNfb3UuB32r17o1fH/JtknIXFJ8+/KWpw7ZepyZxDtSWFqgyNTECYyvYW2FDgiO7qcAlb53++MS+s/4Au+oQForXwITd3Z1k7Xwc0pgE2bUyM6prMNwX/8VhNuuxjwQt/1sO5mpt0mAKwp26lsy6qPEa3aMLWrANoNa0kALe5+hKaSo2O7y2YHfmBjUe4q/247ypcyugi6QdvoQmgwOlOBG1jz+XPn+DaaQZYTnv2ACzyoV14X7QVFR+T+5+wFdasV1PPhEYLY6gOtv9yxp/kIfxlzQtnYI8Onoqfr4Z81NP4GWwlgL2nBQE9YbG0lGDXRvxwT3JomWyfoiiZ6bYBvTZNNmPf0eq0rEt1SR1tr6nnItANnq5dk5L9TRdbFvz5zWQH8t5O/+Nt36eDb+ygbeM/47/uVIZZ3r77yjA0SJlLKpa6x00cOGdAulVqGPF9BrxjNsfb2unFJk26nidt+ycEeyumLqzzd/XZgc63xCwz0+BM=&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="294" width="710" height="360" fill="#b3b3b3" stroke="#b3b3b3"  />
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="355" y="478" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">R
+                </text>
+            
+        </g>
+        <rect x="300" y="434" width="190" height="60" rx="9" ry="9" fill="#d9d9d9" stroke="#d9d9d9d9"
+               />
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="395" y="468" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Ground Floor O
+                </text>
+            
+        </g>
+        <rect x="5" y="304" width="165" height="140" rx="21" ry="21" fill="#9e9e9e" stroke="#9e9e9e"
+               />
+        <rect x="285.78" y="194" width="97.35" height="308.35" rx="14.6" ry="14.6" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-90,334.45,348.17)"  />
+        <rect x="383.13" y="-33.37" width="293.75" height="360" fill="#b3b3b3" stroke="#b3b3b3"
+              transform="rotate(90,530.01,146.63)"  />
+        <rect x="350" y="118" width="140" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,420,120.5)"  />
+        <rect x="659" y="184" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"  
+              id="seat-2" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="679" y="212" fill="#FFFFFF" font-family="Helvetica" font-size="25px" text-anchor="middle">2
+                </text>
+            
+        </g>
+        <rect x="659" y="134" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"  
+              id="seat-3" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="679" y="162" fill="#FFFFFF" font-family="Helvetica" font-size="25px" text-anchor="middle">3
+                </text>
+            
+        </g>
+        <rect x="659" y="234" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"  
+              id="seat-1" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="679" y="262" fill="#FFFFFF" font-family="Helvetica" font-size="25px" text-anchor="middle">1
+                </text>
+            
+        </g>
+        <rect x="509.4" y="-7.89" width="41.23" height="70" rx="6.18" ry="6.18" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(90,530.02,27.11)"  />
+        <rect x="505.01" y="17.74" width="50" height="20" rx="3" ry="3" fill="#b3b3b3" stroke="#b3b3b3"
+               />
+        <path d="M 525.01 17.74 L 535.01 27.74 L 525.01 37.74 Z" fill="#e6e6e6" stroke="#e6e6e6" stroke-miterlimit="10"
+              transform="rotate(90,530.01,27.74)"  />
+        <rect x="350" y="289" width="140" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,420,291.5)"  />
+        <rect x="570" y="289" width="140" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,640,291.5)"  />
+        <rect x="570" y="118" width="140" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,640,120.5)"  />
+        <rect x="570" y="434" width="140" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,640,436.5)"  />
+        <rect x="420" y="434" width="130" height="298.12" rx="19.5" ry="19.5" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-90,485,583.06)"  />
+        <rect x="5" y="454" width="45" height="70" rx="6.75" ry="6.75" fill="#9e9e9e" stroke="#9e9e9e"
+               />
+        <rect x="390" y="528.06" width="190" height="110" rx="16.5" ry="16.5" fill="#d9d9d9" stroke="#d9d9d9d9"
+               />
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="485" y="587" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Reception
+                </text>
+            
+        </g>
+        <rect x="354.99" y="134" width="135.01" height="128.35" rx="19.25" ry="19.25" fill="#9e9e9e" stroke="#9e9e9e"
+               />
+        <rect x="367.49" y="174" width="110" height="50" rx="7.5" ry="7.5" fill="#d9d9d9" stroke="#d9d9d9d9"
+               />
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="422" y="203" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Doctor
+                </text>
+            
+        </g>
+        <rect x="5" y="479" width="50" height="20" rx="3" ry="3" fill="#b3b3b3" stroke="#b3b3b3"
+              transform="rotate(-90,30,489)"  />
+        <path d="M 25 479 L 35 489 L 25 499 Z" fill="#e6e6e6" stroke="#e6e6e6" stroke-miterlimit="10"
+               />
+        <rect x="610" y="70" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"  
+              id="seat-4" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="630" y="98" fill="#FFFFFF" font-family="Helvetica" font-size="25px" text-anchor="middle">4
+                </text>
+            
+        </g>
+        <rect x="660" y="70" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"  
+              id="seat-5" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="680" y="98" fill="#FFFFFF" font-family="Helvetica" font-size="25px" text-anchor="middle">5
+                </text>
+            
+        </g>
+        <rect x="367.49" y="70" width="40" height="40" rx="6" ry="6" fill="#e6e6e6" stroke="#e6e6e6"
+                id="seat-6" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="387" y="98" fill="#FFFFFF" font-family="Helvetica" font-size="25px" text-anchor="middle">6
+                </text>
+            
+        </g>
+        <rect x="570" y="57.11" width="140" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,640,59.61)"  />
+        <rect x="350" y="57.11" width="140" height="5" rx="0.75" ry="0.75" fill="#9e9e9e" stroke="#9e9e9e"
+              transform="rotate(-180,420,59.61)"  />
+        <rect x="211" y="644" width="190" height="10" rx="1.5" ry="1.5" fill="none" stroke="none"  />
+        <g transform="translate(-0.5 -0.5)">
+             <text pointer-events="none" x="306" y="653" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Rotherstraße
+                </text>
+            
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+           target="_blank">
+             <text pointer-events="none" text-anchor="middle" font-size="10px" x="50%" y="100%">Viewer does not support full SVG 1.1</text>
+        </a>
+    </switch>
+</svg>

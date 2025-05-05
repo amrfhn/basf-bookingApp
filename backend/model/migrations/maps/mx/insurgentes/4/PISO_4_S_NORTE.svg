@@ -1,0 +1,306 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="833px" height="675px" viewBox="-0.5 -0.5 833 675">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="832" height="674" fill="#cccccc" stroke="none"/>
+        <rect x="33" y="20" width="177" height="260" rx="26.55" ry="26.55" fill="#eeeeee" stroke="#36393d"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="122" y="156" fill="#000000" font-family="Helvetica" font-size="19px" text-anchor="middle">Privado
+            </text>
+        </g>
+        <rect x="106" y="399" width="100" height="190" rx="15" ry="15" fill="#eeeeee" stroke="#36393d"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="156" y="498" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">SALA DE
+                JUNTAS
+            </text>
+        </g>
+        <rect x="-10" y="420" width="130" height="90.99" fill="#eeeeee" stroke="#36393d" transform="rotate(90,55,465.49)"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="55" y="468" fill="#000000" font-family="Helvetica" font-size="10px" text-anchor="middle">
+                Escaleras...
+            </text>
+        </g>
+        <rect x="470.65" y="308" width="320" height="40" rx="6" ry="6" fill="#eeeeee" stroke="#36393d"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="631" y="334" fill="#000000" font-family="Helvetica" font-size="19px" text-anchor="middle">Piso 4
+                NORTE
+            </text>
+        </g>
+        <path d="M 322.48 102.41 L 332.48 91 L 339.82 91 L 349.82 102.41 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-405,336.15,96.7)"/>
+        <path d="M 323.48 82 Q 337.25 82 337.25 91.48 Q 337.25 100.96 323.48 100.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-495,330.37,91.48)"/>
+        <path d="M 309.48 50.41 L 319.48 39 L 326.82 39 L 336.82 50.41 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-295,323.15,44.7)"/>
+        <path d="M 323.48 32 Q 337.25 32 337.25 41.48 Q 337.25 50.96 323.48 50.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-385,330.37,41.48)"/>
+        <ellipse cx="288" cy="58.52" rx="25.51637742536998" ry="25.51637742536998" fill="#ffffff" stroke="#000000" transform="rotate(-180,288,58.52)"/>
+        <path d="M 260.48 102.41 L 270.48 91 L 277.82 91 L 287.82 102.41 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-165,274.15,96.7)"/>
+        <path d="M 265.48 93 Q 279.25 93 279.25 102.48 Q 279.25 111.96 265.48 111.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-255,272.37,102.48)"/>
+        <path d="M 262.73 265.87 L 272.73 250.25 L 283.63 250.25 L 293.63 265.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,278.18,258.06)"/>
+        <path d="M 270.45 235.37 Q 286.02 235.37 286.02 248.35 Q 286.02 261.33 270.45 261.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,278.24,248.35)"/>
+        <path d="M 263 209.62 L 273 194 L 283.91 194 L 293.91 209.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,278.45,201.81)"/>
+        <path d="M 271 199 Q 286.57 199 286.57 211.98 Q 286.57 224.96 271 224.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,278.78,211.98)"/>
+        <path d="M 470.65 76.33 L 480.65 61.84 L 491.29 61.84 L 501.29 76.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 478.26 48.12 Q 493.69 48.12 493.69 60.17 Q 493.69 72.22 478.26 72.22 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-90,485.97,60.17)"/>
+        <path d="M 449 207.62 L 459 192 L 469.91 192 L 479.91 207.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,464.45,199.81)"/>
+        <path d="M 457 197 Q 472.57 197 472.57 209.98 Q 472.57 222.96 457 222.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,464.78,209.98)"/>
+        <path d="M 448.73 263.87 L 458.73 248.25 L 469.63 248.25 L 479.63 263.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,464.18,256.06)"/>
+        <path d="M 456.45 233.37 Q 472.02 233.37 472.02 246.35 Q 472.02 259.33 456.45 259.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,464.24,246.35)"/>
+        <path d="M 571.98 263.87 L 581.98 248.25 L 592.89 248.25 L 602.89 263.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,587.44,256.06)"/>
+        <path d="M 579.71 233.37 Q 595.28 233.37 595.28 246.35 Q 595.28 259.33 579.71 259.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,587.49,246.35)"/>
+        <path d="M 573 207.62 L 583 192 L 593.91 192 L 603.91 207.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,588.45,199.81)"/>
+        <path d="M 581 197 Q 596.57 197 596.57 209.98 Q 596.57 222.96 581 222.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,588.78,209.98)"/>
+        <path d="M 573.98 121.87 L 583.98 106.25 L 594.89 106.25 L 604.89 121.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,589.44,114.06)"/>
+        <path d="M 581.71 91.37 Q 597.28 91.37 597.28 104.35 Q 597.28 117.33 581.71 117.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,589.49,104.35)"/>
+        <path d="M 659.65 69.33 L 669.65 54.84 L 680.29 54.84 L 690.29 69.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 667.26 41.12 Q 682.69 41.12 682.69 53.17 Q 682.69 65.22 667.26 65.22 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-90,674.97,53.17)"/>
+        <path d="M 764 65.62 L 774 50 L 784.91 50 L 794.91 65.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,779.45,57.81)"/>
+        <path d="M 772 55 Q 787.57 55 787.57 67.98 Q 787.57 80.96 772 80.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,779.78,67.98)"/>
+        <path d="M 762.98 121.87 L 772.98 106.25 L 783.89 106.25 L 793.89 121.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,778.44,114.06)"/>
+        <path d="M 770.71 91.37 Q 786.28 91.37 786.28 104.35 Q 786.28 117.33 770.71 117.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,778.49,104.35)"/>
+        <path d="M 738 199.36 L 748 185 L 763.55 185 L 773.55 199.36 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-270,755.78,192.18)"/>
+        <path d="M 758 180 Q 775.91 180 775.91 191.93 Q 775.91 203.87 758 203.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,766.95,191.93)"/>
+        <rect x="696" y="178" width="70" height="28" fill="#ffd966" stroke="#333333" transform="rotate(90,731,192)" id="seat-28" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="731" y="196" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">28</text>
+        </g>
+        <path d="M 738 268.36 L 748 254 L 763.55 254 L 773.55 268.36 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-270,755.78,261.18)"/>
+        <path d="M 758 249 Q 775.91 249 775.91 260.93 Q 775.91 272.87 758 272.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,766.95,260.93)"/>
+        <rect x="696" y="247" width="70" height="28" fill="#eeeeee" stroke="#36393d" transform="rotate(90,731,261)" id="seat-30" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="731" y="265" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">30</text>
+        </g>
+        <path d="M 659 199.36 L 669 185 L 684.55 185 L 694.55 199.36 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,676.78,192.18)"/>
+        <path d="M 657 180 Q 674.91 180 674.91 191.93 Q 674.91 203.87 657 203.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,665.95,191.93)"/>
+        <rect x="667" y="178" width="70" height="28" fill="#eeeeee" stroke="#36393d" transform="rotate(-270,702,192)" id="seat-27" class="seat"/>
+        <g transform="translate(-0.5 -0.5)rotate(-360 701.9987063710969 192)">
+            <text pointer-events="none" x="702" y="196" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">27</text>
+        </g>
+        <path d="M 659 268.36 L 669 254 L 684.55 254 L 694.55 268.36 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,676.78,261.18)"/>
+        <path d="M 657 249 Q 674.91 249 674.91 260.93 Q 674.91 272.87 657 272.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,665.95,260.93)"/>
+        <rect x="667" y="247" width="70" height="28" fill="#ffd966" stroke="#000000" transform="rotate(-270,702,261)" id="seat-29" class="seat"/>
+        <g transform="translate(-0.5 -0.5)rotate(-360 701.9987063710969 261)">
+            <text pointer-events="none" x="702" y="265" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">29</text>
+        </g>
+        <path d="M 766 408.62 L 776 393 L 786.91 393 L 796.91 408.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,781.45,400.81)"/>
+        <path d="M 774 398 Q 789.57 398 789.57 410.98 Q 789.57 423.96 774 423.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,781.78,410.98)"/>
+        <path d="M 764.98 464.87 L 774.98 449.25 L 785.89 449.25 L 795.89 464.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,780.44,457.06)"/>
+        <path d="M 772.71 434.37 Q 788.28 434.37 788.28 447.35 Q 788.28 460.33 772.71 460.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,780.49,447.35)"/>
+        <path d="M 642 408.62 L 652 393 L 662.91 393 L 672.91 408.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,657.45,400.81)"/>
+        <path d="M 650 398 Q 665.57 398 665.57 410.98 Q 665.57 423.96 650 423.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,657.78,410.98)"/>
+        <path d="M 641.73 464.87 L 651.73 449.25 L 662.63 449.25 L 672.63 464.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,657.18,457.06)"/>
+        <path d="M 649.45 434.37 Q 665.02 434.37 665.02 447.35 Q 665.02 460.33 649.45 460.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,657.24,447.35)"/>
+        <path d="M 765 548.62 L 775 533 L 785.91 533 L 795.91 548.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,780.45,540.81)"/>
+        <path d="M 773 538 Q 788.57 538 788.57 550.98 Q 788.57 563.96 773 563.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,780.78,550.98)"/>
+        <path d="M 641 548.62 L 651 533 L 661.91 533 L 671.91 548.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,656.45,540.81)"/>
+        <path d="M 649 538 Q 664.57 538 664.57 550.98 Q 664.57 563.96 649 563.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,656.78,550.98)"/>
+        <path d="M 763.98 604.87 L 773.98 589.25 L 784.89 589.25 L 794.89 604.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,779.44,597.06)"/>
+        <path d="M 771.71 574.37 Q 787.28 574.37 787.28 587.35 Q 787.28 600.33 771.71 600.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,779.49,587.35)"/>
+        <path d="M 640.73 604.87 L 650.73 589.25 L 661.63 589.25 L 671.63 604.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,656.18,597.06)"/>
+        <path d="M 648.45 574.37 Q 664.02 574.37 664.02 587.35 Q 664.02 600.33 648.45 600.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,656.24,587.35)"/>
+        <path d="M 571.98 604.87 L 581.98 589.25 L 592.89 589.25 L 602.89 604.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,587.44,597.06)"/>
+        <path d="M 579.71 574.37 Q 595.28 574.37 595.28 587.35 Q 595.28 600.33 579.71 600.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,587.49,587.35)"/>
+        <path d="M 573 548.62 L 583 533 L 593.91 533 L 603.91 548.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,588.45,540.81)"/>
+        <path d="M 581 538 Q 596.57 538 596.57 550.98 Q 596.57 563.96 581 563.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,588.78,550.98)"/>
+        <path d="M 467 598.77 L 477 584.28 L 487.64 584.28 L 497.64 598.77 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-180,482.32,591.53)"/>
+        <path d="M 475 588.28 Q 490.44 588.28 490.44 600.33 Q 490.44 612.37 475 612.37 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-270,482.72,600.33)"/>
+        <path d="M 448.73 471.87 L 458.73 456.25 L 469.63 456.25 L 479.63 471.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,464.18,464.06)"/>
+        <path d="M 456.45 441.37 Q 472.02 441.37 472.02 454.35 Q 472.02 467.33 456.45 467.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,464.24,454.35)"/>
+        <path d="M 548 401.36 L 558 387 L 573.55 387 L 583.55 401.36 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-270,565.78,394.18)"/>
+        <path d="M 568 382 Q 585.91 382 585.91 393.93 Q 585.91 405.87 568 405.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,576.95,393.93)"/>
+        <rect x="506" y="380" width="70" height="28" fill="#eeeeee" stroke="#36393d" transform="rotate(90,541,394)" id="seat-17" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="541" y="398" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">17</text>
+        </g>
+        <path d="M 548 470.36 L 558 456 L 573.55 456 L 583.55 470.36 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-270,565.78,463.18)"/>
+        <path d="M 568 451 Q 585.91 451 585.91 462.93 Q 585.91 474.87 568 474.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,576.95,462.93)"/>
+        <rect x="506" y="449" width="70" height="28" fill="#ffd966" stroke="#333333" transform="rotate(90,541,463)" id="seat-15" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="541" y="467" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">15</text>
+        </g>
+        <path d="M 449 415.62 L 459 400 L 469.91 400 L 479.91 415.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,464.45,407.81)"/>
+        <path d="M 457 405 Q 472.57 405 472.57 417.98 Q 472.57 430.96 457 430.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,464.78,417.98)"/>
+        <path d="M 369 414.62 L 379 399 L 389.91 399 L 399.91 414.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,384.45,406.81)"/>
+        <path d="M 377 404 Q 392.57 404 392.57 416.98 Q 392.57 429.96 377 429.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,384.78,416.98)"/>
+        <path d="M 367.98 470.87 L 377.98 455.25 L 388.89 455.25 L 398.89 470.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,383.44,463.06)"/>
+        <path d="M 375.71 440.37 Q 391.28 440.37 391.28 453.35 Q 391.28 466.33 375.71 466.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,383.49,453.35)"/>
+        <path d="M 242 548.62 L 252 533 L 262.91 533 L 272.91 548.62 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,257.45,540.81)"/>
+        <path d="M 250 538 Q 265.57 538 265.57 550.98 Q 265.57 563.96 250 563.96 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,257.78,550.98)"/>
+        <path d="M 348 600.73 L 358 586.24 L 368.63 586.24 L 378.63 600.73 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-180,363.32,593.49)"/>
+        <path d="M 356 590.24 Q 371.43 590.24 371.43 602.29 Q 371.43 614.33 356 614.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-270,363.72,602.29)"/>
+        <path d="M 241.73 604.87 L 251.73 589.25 L 262.63 589.25 L 272.63 604.87 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-360,257.18,597.06)"/>
+        <path d="M 249.45 574.37 Q 265.02 574.37 265.02 587.35 Q 265.02 600.33 249.45 600.33 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-450,257.24,587.35)"/>
+        <rect x="321" y="178" width="59.35" height="21.37" fill="#ffd966" stroke="#333333" transform="rotate(90,350.68,188.68)"/>
+        <path d="M 368 208.49 L 378 194 L 388.64 194 L 398.64 208.49 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10"/>
+        <path d="M 375 180 Q 390.44 180 390.44 192.05 Q 390.44 204.09 375 204.09 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-90,382.72,192.05)"/>
+        <path d="M 346.37 70 L 411.06 135.47 L 346.37 200.94 Z" fill="#ffd966" stroke="#333333" stroke-miterlimit="10" transform="rotate(-315,378.71,135.47)" id="seat-1" class="seat"/>
+        <g transform="translate(-0.5 -0.5)rotate(-405 378.714350198238 135.47000000000003)">
+            <text pointer-events="none" x="379" y="139" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">1</text>
+        </g>
+        <rect x="283.37" y="104" width="27.34" height="83" fill="#ffd966" stroke="#333333" transform="rotate(-90,297.04,145.5)"/>
+        <rect x="374.37" y="18" width="27.34" height="77" fill="#ffd966" stroke="#000000" transform="rotate(-360,388.04,56.5)"/>
+        <rect x="386" y="299.15" width="28" height="33" rx="4.2" ry="4.2" fill="#999999" stroke="none" transform="rotate(-360,400,315.65)"/>
+        <rect x="390" y="304" width="15.26" height="24.45" rx="2.29" ry="2.29" fill="#b3b3b3" stroke="none" transform="rotate(-360,397.63,316.23)"/>
+        <path d="M 392 308.86 L 402.79 315.78 L 392 322.69 Z" fill="#e6e6e6" stroke="none" transform="rotate(-180,397.39,315.78)"/>
+        <rect x="278" y="327" width="28" height="33" rx="4.2" ry="4.2" fill="#999999" stroke="none" transform="rotate(-540,292,343.5)"/>
+        <rect x="287" y="331" width="15.26" height="24.45" rx="2.29" ry="2.29" fill="#b3b3b3" stroke="none" transform="rotate(-540,294.63,343.23)"/>
+        <path d="M 289 336 L 299.79 342.92 L 289 349.84 Z" fill="#e6e6e6" stroke="none" transform="rotate(-360,294.39,342.92)"/>
+        <rect x="309.44" y="190" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-360,324.44,210)"/>
+        <rect x="282" y="133" width="30" height="83" fill="#eeeeee" stroke="#36393d" transform="rotate(90,297,174.5)" id="seat-2" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="297" y="178" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">2</text>
+        </g>
+        <rect x="325.21" y="260.81" width="53" height="22.98" fill="#ffd966" stroke="#333333" transform="rotate(90,351.71,272.3)"/>
+        <rect x="340" y="219" width="84.76" height="26.7" fill="#ffd966" stroke="#333333" id="seat-3" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="382" y="236" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">3</text>
+        </g>
+        <rect x="309.44" y="228" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-180,324.44,248)"/>
+        <rect x="282" y="241" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,297,283.5)" id="seat-4" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="297" y="287" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">4</text>
+        </g>
+        <rect x="293.5" y="394.5" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-360,308.5,414.5)"/>
+        <rect x="266.5" y="336.5" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,281.5,379)" id="seat-6" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="281" y="383" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">6</text>
+        </g>
+        <path d="M 250.5 416.12 L 260.5 400.5 L 271.41 400.5 L 281.41 416.12 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-540,265.95,408.31)"/>
+        <path d="M 258.5 405.5 Q 274.07 405.5 274.07 418.48 Q 274.07 431.46 258.5 431.46 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(-630,266.28,418.48)"/>
+        <rect x="323" y="394" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-360,338,414)"/>
+        <rect x="351" y="337" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,366,379.5)" id="seat-5" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="366" y="383" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">5</text>
+        </g>
+        <rect x="322.38" y="436" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-180,337.38,456)"/>
+        <rect x="349.5" y="448.5" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,364.5,491)" id="seat-7" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="364" y="495" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">7</text>
+        </g>
+        <rect x="289" y="528" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-360,304,548)"/>
+        <rect x="262" y="471" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,277,513.5)" id="seat-8" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="277" y="517" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">8</text>
+        </g>
+        <rect x="302" y="599.24" width="59.35" height="21.37" fill="#ffd966" stroke="#333333" transform="rotate(-90,331.68,609.92)"/>
+        <rect x="309.44" y="519.24" width="45.41" height="22.04" fill="#ffd966" stroke="#333333" transform="rotate(-90,332.15,530.26)"/>
+        <rect x="321" y="553.24" width="84.76" height="26.7" fill="#ffd966" stroke="#333333" transform="rotate(-360,363.38,566.59)" id="seat-9" class="seat"/>
+        <g transform="translate(-0.5 -0.5)rotate(-360 363.38000000000034 566.5899999999999)">
+            <text pointer-events="none" x="363" y="570" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">9</text>
+        </g>
+        <rect x="289" y="570" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-180,304,590)"/>
+        <rect x="261.5" y="582.5" width="30" height="85" fill="#ffd966" stroke="#2d7600" transform="rotate(90,276.5,625)" id="seat-10" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="276" y="629" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">10</text>
+        </g>
+        <rect x="486.58" y="42.71" width="60.79" height="21.37" fill="#ffd966" stroke="#000000" transform="rotate(90,516.97,53.39)"/>
+        <rect x="494.27" y="122.03" width="45.41" height="22.04" fill="#ffd966" stroke="#000000" transform="rotate(90,516.97,133.05)"/>
+        <rect x="443.09" y="83.34" width="84.76" height="26.7" fill="#ffd966" stroke="#000000" id="seat-23" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="485" y="100" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">23</text>
+        </g>
+        <rect x="528.38" y="87" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-180,543.38,107)"/>
+        <rect x="555.5" y="99.5" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,570.5,142)" id="seat-22" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="570" y="146" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">22</text>
+        </g>
+        <rect x="527" y="187" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-360,542,207)"/>
+        <rect x="555" y="130" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,570,172.5)" id="seat-21" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="570" y="176" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">21</text>
+        </g>
+        <rect x="496" y="187" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-360,511,207)"/>
+        <rect x="469" y="130" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,484,172.5)" id="seat-20" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="484" y="176" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">20</text>
+        </g>
+        <rect x="496" y="229" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-180,511,249)"/>
+        <rect x="468.5" y="241.5" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,483.5,284)" id="seat-18" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="483" y="288" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">18</text>
+        </g>
+        <rect x="526.38" y="229" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-180,541.38,249)"/>
+        <rect x="553.5" y="241.5" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,568.5,284)" id="seat-19" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="568" y="288" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">19</text>
+        </g>
+        <rect x="675.58" y="35.71" width="60.79" height="21.37" fill="#ffd966" stroke="#333333" transform="rotate(90,705.97,46.39)"/>
+        <rect x="683.27" y="115.03" width="45.41" height="22.04" fill="#ffd966" stroke="#333333" transform="rotate(90,705.97,126.05)"/>
+        <rect x="632.09" y="76.34" width="84.76" height="26.7" fill="#ffd966" stroke="#333333" id="seat-24" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="674" y="93" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">24</text>
+        </g>
+        <rect x="718" y="44.99" width="30" height="40" fill="#ffd966" stroke="#333333"/>
+        <rect x="745" y="-12" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,760,30.5)" id="seat-25" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="760" y="34" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">25</text>
+        </g>
+        <rect x="717.38" y="85" width="30" height="42" fill="#eeeeee" stroke="#36393d" transform="rotate(-180,732.38,106)"/>
+        <rect x="744.5" y="99.5" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,759.5,142)" id="seat-26" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="759" y="146" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">26</text>
+        </g>
+        <rect x="496" y="395" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-360,511,415)"/>
+        <rect x="469" y="338" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,484,380.5)" id="seat-16" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="484" y="384" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">16</text>
+        </g>
+        <rect x="496" y="437" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-180,511,457)"/>
+        <rect x="468.5" y="449.5" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,483.5,492)" id="seat-14" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="483" y="496" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">14</text>
+        </g>
+        <rect x="484" y="599.28" width="59.35" height="21.37" fill="#ffd966" stroke="#333333" transform="rotate(-90,513.68,609.96)"/>
+        <rect x="491" y="520.28" width="45.41" height="22.98" fill="#ffd966" stroke="#333333" transform="rotate(-90,513.71,531.77)"/>
+        <rect x="440" y="554.28" width="84.76" height="26.7" fill="#ffd966" stroke="#333333" transform="rotate(-360,482.38,567.63)" id="seat-11" class="seat"/>
+        <g transform="translate(-0.5 -0.5)rotate(-360 482.385 567.6299999999999)">
+            <text pointer-events="none" x="482" y="571" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">11</text>
+        </g>
+        <rect x="527" y="528" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-360,542,548)"/>
+        <rect x="555" y="471" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,570,513.5)" id="seat-13" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="570" y="517" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">13</text>
+        </g>
+        <rect x="526.38" y="570" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-180,541.38,590)"/>
+        <rect x="553.5" y="582.5" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,568.5,625)" id="seat-12" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="568" y="629" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">12</text>
+        </g>
+        <rect x="689" y="388" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-360,704,408)"/>
+        <rect x="662" y="331" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,677,373.5)" id="seat-31" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="677" y="377" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">31</text>
+        </g>
+        <rect x="689" y="430" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-180,704,450)"/>
+        <rect x="661.5" y="442.5" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,676.5,485)" id="seat-33" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="676" y="489" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">33</text>
+        </g>
+        <rect x="688" y="528" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-360,703,548)"/>
+        <rect x="661" y="471" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,676,513.5)" id="seat-35" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="676" y="517" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">35</text>
+        </g>
+        <rect x="688" y="570" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-180,703,590)"/>
+        <rect x="660.5" y="582.5" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,675.5,625)" id="seat-37" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="675" y="629" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">37</text>
+        </g>
+        <rect x="720" y="388" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-360,735,408)"/>
+        <rect x="748" y="331" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,763,373.5)" id="seat-32" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="763" y="377" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">32</text>
+        </g>
+        <rect x="719.38" y="430" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-180,734.38,450)"/>
+        <rect x="746.5" y="442.5" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,761.5,485)" id="seat-34" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="761" y="489" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">34</text>
+        </g>
+        <rect x="719" y="528" width="30" height="40" fill="#eeeeee" stroke="#36393d" transform="rotate(-360,734,548)"/>
+        <rect x="747" y="471" width="30" height="85" fill="#eeeeee" stroke="#36393d" transform="rotate(90,762,513.5)" id="seat-36" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="762" y="517" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">36</text>
+        </g>
+        <rect x="718.38" y="570" width="30" height="40" fill="#ffd966" stroke="#333333" transform="rotate(-180,733.38,590)"/>
+        <rect x="745.5" y="582.5" width="30" height="85" fill="#ffd966" stroke="#333333" transform="rotate(90,760.5,625)" id="seat-38" class="seat"/>
+        <g transform="translate(-0.5 -0.5)">
+            <text pointer-events="none" x="760" y="629" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">38</text>
+        </g>
+    </g>
+</svg>

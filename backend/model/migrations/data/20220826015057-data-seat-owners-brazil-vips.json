@@ -1,0 +1,212 @@
+[
+  {
+    "floor":15,
+    "area":"a1",
+    "seat":1
+  },
+  {
+    "floor":15,
+    "area":"a1",
+    "seat":2
+  },
+  {
+    "floor":15,
+    "area":"a1",
+    "seat":23
+  },
+  {
+    "floor":15,
+    "area":"a1",
+    "seat":24
+  },
+  {
+    "floor":15,
+    "area":"a2",
+    "seat":39
+  },
+  {
+    "floor":15,
+    "area":"a2",
+    "seat":40
+  },
+  {
+    "floor":15,
+    "area":"a2",
+    "seat":51
+  },
+  {
+    "floor":15,
+    "area":"a2",
+    "seat":52
+  },
+  {
+    "floor":15,
+    "area":"b2",
+    "seat":77
+  },
+  {
+    "floor":15,
+    "area":"b2",
+    "seat":78
+  },
+  {
+    "floor":15,
+    "area":"b2",
+    "seat":99
+  },
+  {
+    "floor":15,
+    "area":"b2",
+    "seat":100
+  },
+  {
+    "floor":15,
+    "area":"b1",
+    "seat":125
+  },
+  {
+    "floor":15,
+    "area":"b1",
+    "seat":126
+  },
+  {
+    "floor":15,
+    "area":"b1",
+    "seat":143
+  },
+  {
+    "floor":15,
+    "area":"b1",
+    "seat":144
+  },
+  {
+    "floor": 17,
+    "area": "a1",
+    "seat": 7
+  },
+  {
+    "floor": 17,
+    "area": "a1",
+    "seat": 8
+  },
+  {
+    "floor": 17,
+    "area": "a1",
+    "seat": 13
+  },
+  {
+    "floor": 17,
+    "area": "a1",
+    "seat": 14
+  },
+  {
+    "floor": 17,
+    "area": "a1",
+    "seat": 15
+  },
+  {
+    "floor": 17,
+    "area": "a2",
+    "seat": 62
+  },
+  {
+    "floor": 17,
+    "area": "a2",
+    "seat": 63
+  },
+  {
+    "floor": 17,
+    "area": "a2",
+    "seat": 64
+  },
+  {
+    "floor": 17,
+    "area": "a2",
+    "seat": 65
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 91
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 92
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 93
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 94
+  },
+  {
+    "floor": 17,
+    "area": "b2",
+    "seat": 138
+  },
+  {
+    "floor": 12,
+    "area": "a1",
+    "seat": 1
+  },
+  {
+    "floor": 12,
+    "area": "a1",
+    "seat": 2
+  },
+  {
+    "floor": 12,
+    "area": "a2",
+    "seat": 73
+  },
+  {
+    "floor": 12,
+    "area": "a2",
+    "seat": 74
+  },
+  {
+    "floor": 12,
+    "area": "a2",
+    "seat": 75
+  },
+  {
+    "floor": 12,
+    "area": "a2",
+    "seat": 76
+  },
+  {
+    "floor": 12,
+    "area": "b2",
+    "seat": 81
+  },
+  {
+    "floor": 12,
+    "area": "b2",
+    "seat": 82
+  },
+  {
+    "floor": 12,
+    "area": "b1",
+    "seat": 146
+  },
+  {
+    "floor": 12,
+    "area": "b1",
+    "seat": 147
+  },
+  {
+    "floor": 12,
+    "area": "b1",
+    "seat": 148
+  },
+  {
+    "floor": 12,
+    "area": "b1",
+    "seat": 149
+  }
+]

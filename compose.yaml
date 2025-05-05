@@ -1,0 +1,45 @@
+version: "3.8"
+
+volumes:
+  # docker volume create --name postgres-data-volume -d local
+  data-volume:
+    driver: "local"
+
+services:
+  # docker run --name my-postgres -p 5432:5432 -v postgres-data-volume:/var/lib/postgresql/data -e POSTGRES_PASSWORD=postgres -d registry.roqs.basf.net/base-images/postgres:16
+  db:
+    image: postgres:16
+    restart: always
+    environment:
+      POSTGRES_USER: future_of_work
+      POSTGRES_DB: future_of_work
+      POSTGRES_PASSWORD: future_of_work
+    ports:
+      - "5432:5432"
+    volumes:
+      - data-volume:/var/lib/postgresql/data
+
+  backend:
+    build:
+      dockerfile: backend.dockerfile
+    depends_on:
+      - db
+    environment:
+      ROOT_PATH: /future_of_work
+      SSL: 'FALSE'
+      PGHOST: db
+      PGPORT: 5432
+      PGDB: future_of_work
+      PGUSER: future_of_work
+      PGPASSWORD: future_of_work
+    ports:
+      - "9000:9000"
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend.dockerfile
+      args:
+        NGINX_CONF: local
+    ports:
+      - "1080:1080"

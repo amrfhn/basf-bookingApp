@@ -1,0 +1,142 @@
+{
+  "back": "Back",
+  "floor": "Floor",
+  "area": "Area",
+  "app": {
+    "title": "Future of Work"
+  },
+  "about": {
+    "title": "About us",
+    "text": "The tool Future of Work allows you to plan your visits to the office in an easy and intuitive way. Simply by indicating the date and place within a present or future period you can book a seat. The concept of \"landing zones\" enables specific teams or units to work close to each other. As all desks might not have the same equipment, the filter function allows you to search according to your preference, for example, the number of monitors. Any user can schedule visits for the sites included in the tool. The tool gives an overview of your reservations and those of your team, and even displays who is sitting next to you. In the report section you can access data on desk utilisation and the tool further offers an overview of first aiders booked in the office",
+    "contact": "Please feel free to leave your feedback or contact us to ",
+    "link": "To make a reservation, click on ",
+    "introFow": "To learn more about the Future of Work application, click on ",
+    "knowledgeBase": "Knowledge Base",
+    "supportEmail": "dbt-fow-support-team@basf.com"
+  },
+  "navbar": {
+    "index": "Home",
+    "users": "Users",
+    "components": "Components",
+    "login": "Login",
+    "lang": {
+      "en": "English",
+      "es": "Spanish",
+      "de": "German",
+      "pt": "Portuguese",
+      "kr": "Korean"
+    }
+  },
+  "page": {
+    "findASeat": "Find a Seat",
+    "myReservations": "My Reservations"
+  },
+  "book": {
+    "findASeat": "Find a Seat",
+    "siteLabel": "Site",
+    "sitetitle": "Select a site",
+    "buildingLabel": "Building",
+    "buildingtitle": "Select a building",
+    "from": "From:",
+    "to": "To:",
+    "floor": "Floor:",
+    "seat": "Seat:",
+    "forMe": "For Me",
+    "preBooks": "For my team",
+    "onBehalfOf": "On behalf of",
+    "selectFloor": "Select a floor",
+    "chooseSeat": "Choose a seat",
+    "viewFloorPlan": "View the floor plan",
+    "booking": "Book",
+    "quickBook": "Quick Book",
+    "randomSeat": "Random Seat"
+  },
+  "reservation": {
+    "myReservation": "My Reservations",
+    "today": "Today:",
+    "nextBookings": "Next Bookings:",
+    "teamBookings": "My Team Reservations:",
+    "preBookings": "Pre-bookings:",
+    "cancel": "Cancel reservation",
+    "table": {
+      "booksite": "Site",
+      "day": "Day",
+      "floor": "Floor",
+      "seat": "Seat",
+      "forMe": "For Me",
+      "onBehalfOf": "On Behalf Of",
+      "selection": "Selection",
+      "noBookings": "There are no bookings registered",
+      "area": "Area",
+      "teamMember": "Team member",
+      "parking": "Parking",
+      "parkingSelection": "Select a parking"
+    }
+  },
+  "modal": {
+    "cancelationTitle": "Confirm cancelation",
+    "confirmTitle": "Confirm reservation",
+    "preBooksWarn": "Please remember that the team members must book the seats otherwise pre book will be cancel 24 hours before",
+    "selectedBook": "your selection was:",
+    "floor": "Floor: ",
+    "site": "Site: ",
+    "area": "Area: ",
+    "seat": "Seat: ",
+    "date": "Date: ",
+    "amenities": {
+      "description": "Amenities: "
+    },
+    "thankMsg": "Thank you to contribute to the responsible use of the desks!",
+    "cancelButton": "Cancel",
+    "confirmButton": "Confirm",
+    "thirdParty": "Third party information",
+    "internal": "Internal",
+    "external": "External",
+    "bookSuccess": "Your book was done successfully",
+    "preBookSuccess": "Your pre-book was done successfully",
+    "noUserError": "User can't be empty",
+    "findUser": "Find User"
+  },
+  "alert": {
+    "title": "Warning!",
+    "incompleteFieldsMessage": "All values are required to find a seat.",
+    "seatTakenMessage": "This seat has already been booked, please select another seat or other period.",
+    "alreadyHasBooking": "You already have a booking for you"
+  },
+  "homeTable": {
+    "title": "Top 5 available seats",
+    "bookView": "Reserve a seat",
+    "floor": "Floor",
+    "seats": "Seats"
+  },
+  "mainpage": {
+    "feedback": "Give us Feedback!",
+    "book": "Book your seat",
+    "feedbackModal": {
+      "title": "Feedback",
+      "send": "Send",
+      "fbcomment": "We continue to build the best way of working. Therefore, your constant feedback is essential. Make your comments here!",
+      "topic": {
+        "site": "Select the site for your feedback",
+        "seat": "I wanted to go to the office and did not find a seat available",
+        "comment": "I want to send a comment",
+        "error": "I want to report an error"
+      },
+      "type": {
+        "anonymous": "Anonymous"
+      },
+      "errors": {
+        "emptyComment": "The comment cannot be empty",
+        "onDates": "Date From must be before date To"
+      },
+      "uploadFile": "Upload File..."
+    },
+    "bookSuccess": "Your book was done successfully",
+    "preBookSuccess": "Your pre-book was done successfully",
+    "wantBookParkingLot": "I want my reservation to include parking lot",
+    "parkingLot": "Parking lot",
+    "seatOwnerParkingLot": "This booking includes reservation for parking lot {parkingLot} on floor {parkingFloor}",
+    "NoAvailableParkingLot": "There are no available parking lots on this date. Contact Facility Management team",
+    "NotAuthorizedParkingLot": "You are not authorized to reserve garages"
+  }
+}

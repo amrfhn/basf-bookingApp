@@ -1,0 +1,142 @@
+{
+  "back": "Zurück",
+  "floor": "Boden",
+  "area": "Bereich",
+  "app": {
+    "title": "Book me in the office"
+  },
+  "about": {
+    "title": "Über uns",
+    "text": "Mit dem Tool Future of Work kannst Du Deine Bürobesuche einfach und intuitiv planen. Zum Buchen eines Sitzplatzes gebe einfach ein Datum und den Ort ein, für jetzt oder in der Zukunft. Mit dem Konzept der \"Landingzones\" ermöglichen wir bestimmten Teams und Einheiten, nahe beieinander zu sitzen und arbeiten. Nicht alle Schreibtische verfügen über die gleiche Ausstattung. Über die Filterfunktion kannst Du nach Deiner Wunschausstattung suchen z. B. nach der Anzahl der Monitore. Als Benutzer kannst Du Sitzplätze für alle im Tool inkludierten Büroflächen buchen.\n\nDas Tool gibt Dir einen Überblick über Deine Reservierungen und die Deines Teams und zeigt an, wer den Sitz neben Dir gebucht hat. In der Kategorie Berichte kannst Du auf Daten zur Schreibtischauslastung zugreifen und einen Überblick über die im Büro gebuchten Ersthelfer erhalten.",
+    "contact": "Fühlen Sie sich frei, Ihr Feedback zu hinterlassen oder uns zu kontaktieren bsa-demands-gtu@basf.com",
+    "link": "Um eine Reservierung vorzunehmen, klicken Sie auf ",
+    "introFow": "Um mehr über die Anwendung Future of Work zu erfahren, klicken Sie auf ",
+    "knowledgeBase": "Wissensbasis",
+    "supportEmail": "dbt-fow-support-team@basf.com"
+  },
+  "navbar": {
+    "index": "Startseite",
+    "users": "Users",
+    "components": "Components",
+    "login": "Login",
+    "lang": {
+      "en": "Englisch",
+      "es": "Spanisch",
+      "de": "Deutsch",
+      "pt": "Portugiesisch",
+      "kr": "Koreanisch"
+    }
+  },
+  "page": {
+    "findASeat": "Finde einen Platz",
+    "myReservations": "Meine Reservierungen"
+  },
+  "book": {
+    "findASeat": "Finde einen Platz",
+    "siteLabel": "Standort",
+    "siteTitle": "Wähle einen Standort",
+    "buildingLabel": "Gebäude",
+    "buildingtitle": "Wähle eine Gebäude aus",
+    "from": "Von:",
+    "to": "Bis:",
+    "floor": "Etage:",
+    "seat": "Arbeitsplatz:",
+    "forMe": "Für mich",
+    "preBooks": "Für mein Team",
+    "onBehalfOf": "im Namen von",
+    "selectFloor": "Etage auswählen",
+    "chooseSeat": "Wähle einen Sitzplatz",
+    "viewFloorPlan": "Den Grundriss anzeigen",
+    "booking": "Buchen",
+    "quickBook": "Schnelles Buch",
+    "randomSeat": "Zufälliger Sitz"
+  },
+  "reservation": {
+    "myReservation": "Meine Reservierungen",
+    "today": "Heute:",
+    "nextBookings": "Nächste Buchungen:",
+    "teamBookings": "Meine Teamreservierungen:",
+    "preBookings": "Pre-bookings:",
+    "cancel": "Reservierung stornieren",
+    "table": {
+      "booksite": "Seite",
+      "day": "Tag",
+      "floor": "Boden",
+      "seat": "Sitz",
+      "forMe": "Für mich",
+      "onBehalfOf": "Im Namen von",
+      "selection": "Auswahl",
+      "noBookings": "Es sind keine Buchungen registriert",
+      "area": "Bereich",
+      "teamMember": "Teammitglied",
+      "parking": "Parken",
+      "parkingSelection": "Wählen Sie einen Parkplatz aus"
+    }
+  },
+  "modal": {
+    "cancelationTitle": "Abbrechen bestätigen",
+    "confirmTitle": "Bestätigen",
+    "selectedBook": "ihre Auswahl war:",
+    "preBooksWarn": "Bitte denken Sie daran, dass die Teammitglieder die Plätze buchen müssen, sonst wird die Vorbuchung 24 Stunden vorher storniert.",
+    "floor": "Boden: ",
+    "site": "Standort: ",
+    "area": "Bereich: ",
+    "seat": "Sitz: ",
+    "date": "Datum: ",
+    "amenities": {
+      "description": "Einrichtungen: "
+    },
+    "thankMsg": "Vielen Dank, dass Sie einen Beitrag zur verantwortungsvollen Nutzung der Schreibtische leisten!",
+    "cancelButton": "Abbrechen",
+    "confirmButton": "Bestätigen",
+    "thirdParty": "Informationen Dritter",
+    "internal": "Intern",
+    "external": "Extern",
+    "bookSuccess": "Ihre Buchung wurde erfolgreich durchgeführt",
+    "preBookSuccess": "Ihre Vorbuchung wurde erfolgreich durchgeführt",
+    "noUserError": "Der Benutzer darf nicht leer sein",
+    "findUser": "Finde den Benutzer"
+  },
+  "alert": {
+    "title": "Warnung!",
+    "incompleteFieldsMessage": "Alle Werte sind erforderlich, um einen Sitzplatz zu finden.",
+    "seatTakenMessage": "Dieser Sitzplatz ist bereits gebucht, bitte wählen Sie einen anderen Sitzplatz oder einen anderen Zeitraum.",
+    "alreadyHasBooking": "Sie haben bereits eine Buchung für Sie"
+  },
+  "homeTable": {
+    "title": "Top 5 der verfügbaren Plätze ",
+    "bookView": "Reserve a seat",
+    "floor": "Boden",
+    "seats": "Sitz"
+  },
+  "mainpage": {
+    "feedback": "Gib uns dein Feedback!",
+    "book": "Reserviere deinen Arbeitsplatz",
+    "feedbackModal": {
+      "title": "Feedback",
+      "send": "Senden",
+      "fbcomment": "Wir bauen weiterhin die beste Arbeitsweise. Daher ist Ihr ständiges Feedback unerlässlich. Machen Sie hier Ihre Kommentare!",
+      "topic": {
+        "site": "Wählen Sie den Standort für Ihre Feedback aus",
+        "seat": "Ich wollte ins Büro und habe keinen freien Platz gefunden",
+        "comment": "Ich möchte einen Kommentar senden",
+        "error": "Ich möchte einen Fehler melden"
+      },
+      "type": {
+        "anonymous": "Anonym"
+      },
+      "errors": {
+        "emptyComment": "Der Kommentar darf nicht leer sein",
+        "onDates": "Datum Von muss vor Datum Bis sein"
+      },
+      "uploadFile": "Datei hochladen..."
+    },
+    "bookSuccess": "Ihre Buchung wurde erfolgreich durchgeführt",
+    "preBookSuccess": "Ihre Vorbuchung wurde erfolgreich durchgeführt",
+    "wantBookParkingLot": "Ich möchte, dass meine Reservierung einen Parkplatz beinhaltet",
+    "parkingLot": "Parkplatz",
+    "seatOwnerParkingLot": "Diese Buchung beinhaltet die Reservierung für den Parkplatz {parkingLot} auf der Etage {parkingFloor}",
+    "NoAvailableParkingLot": "An diesem Tag sind keine Parkplätze verfügbar. Wenden Sie sich an das Facility Management-Team",
+    "NotAuthorizedParkingLot": "U bent niet bevoegd om garages te reserveren"
+  }
+}

@@ -1,0 +1,11 @@
+# public/private mappings
+public:
+  - host: etracker.cc
+    port: 443
+  - host: "*.etracker.cc"
+    port: 443
+private:
+  # - host: some_private_host
+  #   port: some_private_port
+  # - host: another_private_host
+  #   port: another_private_port

@@ -1,0 +1,12 @@
+[
+  {"floor": 9, "area": "b", "seat": 6, "newSeat": 17 },
+  {"floor": 12, "area": "b2", "seat": 137, "newSeat": 190 },
+  {"floor": 12, "area": "b2", "seat": 138, "newSeat": 189 },
+  {"floor": 16, "area": "b1", "seat": 183, "newSeat": 208 },
+  {"floor": 16, "area": "b1", "seat": 184, "newSeat": 209 },
+  {"floor": 16, "area": "b2", "seat": 81, "newSeat": 205 },
+  {"floor": 16, "area": "b2", "seat": 80, "newSeat": 206 },
+  {"floor": 16, "area": "b2", "seat": 145, "newSeat": 207 },
+  {"floor": 17, "area": "b1", "seat": 31, "newSeat": 131 },
+  {"floor": 17, "area": "a2", "seat": 93, "newSeat": 133 }
+]

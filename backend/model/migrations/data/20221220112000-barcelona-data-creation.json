@@ -1,0 +1,646 @@
+[
+  {
+    "floor": "5",
+    "buildingMindsID": "7ecafc25-7e15-4019-886f-f9db8504c9d5",
+    "seat": "501",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "1b622237-3b99-41f9-a317-efe7755404ff",
+    "seat": "502",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "01c79105-5cc4-488a-8fef-142c0ee4f348",
+    "seat": "503",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "4c85a668-66ff-4405-8fdd-b5b5600b2a8a",
+    "seat": "504",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "25f6f01d-171a-45d7-97ef-28d9d016c1da",
+    "seat": "505",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "3afcc758-e747-4aa2-84c1-385abd87d57f",
+    "seat": "506",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "702cb777-24da-4a8d-afd6-bb187a2efeb7",
+    "seat": "507",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "564bebea-d008-409d-8416-6a7246bc0d48",
+    "seat": "508",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "9e06316f-08a3-45ef-8a47-69e66fcd7acd",
+    "seat": "509",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "50919675-cb38-4a27-8bf8-7a3035f2d41b",
+    "seat": "510",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "56758732-5487-4d34-a286-ec0a16fdcd11",
+    "seat": "511",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "3ca3aa22-8c24-473e-bc4e-18126a873829",
+    "seat": "512",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "6bfc102e-7e84-4ade-ad8e-16b29fa83ea2",
+    "seat": "513",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "ca73768b-202d-4386-a992-d229915742c5",
+    "seat": "514",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "8573e746-7587-4a55-83c6-f0910fd30bfb",
+    "seat": "515",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "ed14346d-d65e-4cb2-acf8-f2a3ca28ff13",
+    "seat": "516",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "df888806-9a2d-46da-a8b5-58d8bceaecce",
+    "seat": "517",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "ecbeac62-ea97-432a-b32b-16463a690190",
+    "seat": "521",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "365bcecb-a85e-4011-84f0-1659835e999f",
+    "seat": "522",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "863f7d59-9842-4b4b-ba9d-a07c9a88bf36",
+    "seat": "523",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "a649ca20-732e-47d1-8235-eeb1c09522dd",
+    "seat": "524",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "5c1fad4c-ee15-4988-893c-50a674010e10",
+    "seat": "525",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "aab5cbda-c1f3-461c-804a-41cb4604f5a0",
+    "seat": "526",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "695d6685-575f-463e-a15b-5ee15b93155a",
+    "seat": "527",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "7793150d-6811-4805-b309-baf296c23479",
+    "seat": "528",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "0ec6866e-9523-4ae3-92e2-bbe4f624bf68",
+    "seat": "529",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "2fc10dc7-313c-4482-b217-e2a28edf39d7",
+    "seat": "530",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "ee06e16d-36eb-49a2-8254-691b850f1e96",
+    "seat": "531",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "a78bebf4-349e-4837-a339-e0fcd2d17492",
+    "seat": "532",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "9162f165-376d-4fbc-84f4-0843bb68ff4e",
+    "seat": "533",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "5",
+    "buildingMindsID": "7dcdc6c8-0709-426f-bb83-df1936713b47",
+    "seat": "534",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "38aba1c8-e697-464a-8f89-e7dcd7b9c111",
+    "seat": "607",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "60dca852-b51c-46ec-aa39-ba94e7038e65",
+    "seat": "608",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "5dc876cf-e444-444f-ac79-eba96a04870e",
+    "seat": "609",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "62c8b319-8516-43c6-b0da-c155bf3596d9",
+    "seat": "610",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "63d6ccb6-e1f0-4a46-b0e0-bd471050f991",
+    "seat": "611",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "8d8d7c65-3751-4343-a8f6-9ccac9f79127",
+    "seat": "612",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "2dbca06c-4cfc-4813-8da2-7c56081cc66f",
+    "seat": "613",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "e5c3768f-26eb-4aab-89fc-6dd47890abe8",
+    "seat": "614",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "3a3b36fd-190c-421f-ae34-d8dea6e04785",
+    "seat": "615",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "578fe5a3-d2fd-4812-a558-652e3b128d19",
+    "seat": "616",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "d3a0ac2c-080f-48d2-b3be-e86c41e8300c",
+    "seat": "617",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "79f0b2a1-6f0a-4fc1-bd78-f2b5952b5a1d",
+    "seat": "618",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "28a64782-98a8-4055-afe7-0771a85991f7",
+    "seat": "619",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "9462cec3-d7bc-4cbb-8f97-194412230923",
+    "seat": "620",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "f7ef1ed8-94d7-40f5-b789-83ffcbf697e4",
+    "seat": "621",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "0df6d6d7-6832-4b65-85c0-209b9535d8ca",
+    "seat": "622",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "ccef5bab-67c9-4ea5-a64b-27213dcdd209",
+    "seat": "623",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "aa7ac9a8-4c10-4d73-81a3-401cbb1fad50",
+    "seat": "624",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "6e886891-2f26-45b9-ab14-6c959d61ec3a",
+    "seat": "625",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "68d2ad19-69e6-4868-9ee4-6c36d4b2e62c",
+    "seat": "626",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "9d49600d-8c04-4eb6-b755-b472990382ab",
+    "seat": "627",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "7917fe1b-f751-42cb-9547-7983e98c4c89",
+    "seat": "628",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "8762f486-1daa-4b94-87d2-919d170e3e9e",
+    "seat": "629",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "5a7cafdc-2664-4f0d-b0da-07f060314cea",
+    "seat": "630",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "78932652-66c6-4bfa-817f-ec8ecd18f2b6",
+    "seat": "631",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "000d720d-ca63-4be6-aecc-7563831d4e4c",
+    "seat": "632",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "1d94714a-ae6a-44cd-af72-cb9adebf3942",
+    "seat": "633",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "63195fcd-bef6-4f8d-b6c6-cc680ba56e38",
+    "seat": "634",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "6dc0368b-883e-45ba-8307-5ed2235fdf59",
+    "seat": "635",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "4225e5cc-82ae-4ee8-a8da-632eb57188ac",
+    "seat": "636",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "15625c80-68e1-4f2e-af05-e2abcc0e4516",
+    "seat": "637",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "b42ce100-a830-4750-8d4c-2c2c97d0e683",
+    "seat": "638",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "9d720c47-3875-40f5-bf7b-745f2af80135",
+    "seat": "639",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "666c24bc-6c99-4f75-9986-1f1648c57b48",
+    "seat": "640",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "e6c274c1-6dc4-43c6-b427-fade02a9816a",
+    "seat": "641",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "b76cce27-103a-45d8-bca0-35487d105543",
+    "seat": "642",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "6",
+    "buildingMindsID": "16c2b5a1-fc15-4a14-b58d-f20032b17af9",
+    "seat": "643",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "354cceb4-06cc-4d6d-a380-0fe22f1d9702",
+    "seat": "701",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "fc3cddad-9ee1-4aa5-b359-9940cc785e89",
+    "seat": "702",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "f86b8c32-e2a9-4b24-83c2-f08195ff1b69",
+    "seat": "703",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "ba6f2824-fd04-4ff6-a958-d34eab599a12",
+    "seat": "704",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "aea56c4c-43e8-4eb2-9df5-55a41be3091e",
+    "seat": "705",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "07dd1005-348f-4e6f-92bd-975d467c1f05",
+    "seat": "706",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "a012ea35-84d5-45b2-8972-7d8d2fdc975e",
+    "seat": "707",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "d401420e-45b2-4866-8ac0-f620e4fcca46",
+    "seat": "708",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "42069c77-8459-4e16-a524-b1d892b2bde4",
+    "seat": "709",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "37db07fa-9b29-4e7a-bdf1-1d3be2bab840",
+    "seat": "710",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "3d8f1e74-ee35-4319-9cbc-64de41f9174d",
+    "seat": "711",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "7eb64f8c-a474-4369-b912-6232f3d64703",
+    "seat": "712",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "b80f1bcf-7f0a-47d9-9c5d-cbea3356db0b",
+    "seat": "713",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "b1fb9d57-256c-415c-8e71-f8fe5b1ce2dc",
+    "seat": "714",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "6f7ee5fb-ddb7-4b5b-9cd1-5dacce6e47ee",
+    "seat": "715",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "8329d049-f7f4-482c-8751-b2255ace9b3c",
+    "seat": "716",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "57ce7cec-113f-4970-a13e-6af3a316189f",
+    "seat": "717",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "16d02ce3-c177-416e-84e2-53acab1bd7a2",
+    "seat": "718",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "18200120-5039-4ed3-bea9-368d4f26b702",
+    "seat": "719",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "c93bb581-dc72-4c4d-9523-e810af9e5abe",
+    "seat": "720",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "089b6f6c-29e6-4341-8894-14af71658b4a",
+    "seat": "721",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "c2203ad7-58c2-45a7-b98f-ed5bc5b9ef64",
+    "seat": "722",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "a17cc87c-13aa-4fd3-95d3-7f80445ea03b",
+    "seat": "723",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  },
+  {
+    "floor": "7",
+    "buildingMindsID": "946b4208-4dcc-478b-99c7-d300705ffbba",
+    "seat": "724",
+    "workspace_bookable": true,
+    "available_resources": "1 Monitor"
+  }
+]
